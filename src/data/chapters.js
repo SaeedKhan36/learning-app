@@ -8,6 +8,12 @@ export const chapters = [
       "Human & Environment Interaction",
       "Biosphere Basics",
     ],
+    content: {
+      "Definition of Environment": "",
+      "Importance of Ecology": "",
+      "Human & Environment Interaction": "",
+      "Biosphere Basics": "",
+    },
     questions: [
       {
         question: "What does the term 'Environment' refer to?",
@@ -275,6 +281,12 @@ export const chapters = [
       "Levels of Organization",
       "Scope in Modern World",
     ],
+    content: {
+      "Autecology": "",
+      "Synecology": "",
+      "Levels of Organization": "",
+      "Scope in Modern World": "",
+    },
     questions: [
       {
         question: "Autecology refers to the study of:",
@@ -558,6 +570,12 @@ export const chapters = [
       "Functions of Ecosystem",
       "Homeostasis",
     ],
+    content: {
+      "Biotic Components": "",
+      "Abiotic Components": "",
+      "Functions of Ecosystem": "",
+      "Homeostasis": "",
+    },
     questions: [
       {
         question: "Which best describes an ecosystem?",
@@ -815,6 +833,12 @@ export const chapters = [
       "Desert Ecosystems",
       "Aquatic Ecosystems",
     ],
+    content: {
+      "Forest Ecosystems": "",
+      "Grassland Ecosystems": "",
+      "Desert Ecosystems": "",
+      "Aquatic Ecosystems": "",
+    },
     questions: [
       {
         question: "Which is a lentic ecosystem?",
@@ -1077,6 +1101,12 @@ export const chapters = [
       "Trophic Levels",
       "Interconnectivity",
     ],
+    content: {
+      "Grazing Food Chain": "",
+      "Detritus Food Chain": "",
+      "Trophic Levels": "",
+      "Interconnectivity": "",
+    },
     questions: [
       {
         question: "A sequence through which energy flows is called:",
@@ -1364,6 +1394,12 @@ export const chapters = [
       "Pyramid of Energy",
       "Inverted Pyramids",
     ],
+    content: {
+      "Pyramid of Number": "",
+      "Pyramid of Biomass": "",
+      "Pyramid of Energy": "",
+      "Inverted Pyramids": "",
+    },
     questions: [],
   },
   {
@@ -1375,6 +1411,12 @@ export const chapters = [
       "Lindeman's Concept",
       "Energy Pathways",
     ],
+    content: {
+      "Thermodynamics in Ecology": "",
+      "Ten Percent Law": "",
+      "Lindeman's Concept": "",
+      "Energy Pathways": "",
+    },
     questions: [],
   },
   {
@@ -1386,6 +1428,12 @@ export const chapters = [
       "Water Cycle",
       "Phosphorus Cycle",
     ],
+    content: {
+      "Carbon Cycle": "",
+      "Nitrogen Cycle": "",
+      "Water Cycle": "",
+      "Phosphorus Cycle": "",
+    },
     questions: [],
   },
   {
@@ -1397,6 +1445,12 @@ export const chapters = [
       "Pioneer Species",
       "Climax Community",
     ],
+    content: {
+      "Primary Succession": "",
+      "Secondary Succession": "",
+      "Pioneer Species": "",
+      "Climax Community": "",
+    },
     questions: [
       {
         question: "Ecological succession is:",
@@ -1672,6 +1726,12 @@ export const chapters = [
       "Edge Effect",
       "Edge Species",
     ],
+    content: {
+      "Concept of Ecotone": "",
+      "Characteristics": "",
+      "Edge Effect": "",
+      "Edge Species": "",
+    },
     questions: [],
   },
   {
@@ -1683,6 +1743,12 @@ export const chapters = [
       "Population Growth",
       "Logistic Curve",
     ],
+    content: {
+      "Definition": "",
+      "Limiting Factors": "",
+      "Population Growth": "",
+      "Logistic Curve": "",
+    },
     questions: [
       {
         question: "Carrying capacity refers to:",
@@ -1948,6 +2014,12 @@ export const chapters = [
       "Ecosystem Diversity",
       "Biodiversity Measurement",
     ],
+    content: {
+      "Genetic Diversity": "",
+      "Species Diversity": "",
+      "Ecosystem Diversity": "",
+      "Biodiversity Measurement": "",
+    },
     questions: [],
   },
   {
@@ -1959,6 +2031,12 @@ export const chapters = [
       "Indian Hotspots",
       "Conservation Priority",
     ],
+    content: {
+      "Hotspot Criteria": "",
+      "Global Distribution": "",
+      "Indian Hotspots": "",
+      "Conservation Priority": "",
+    },
     questions: [
       {
         question: "Biodiversity hotspots are regions with:",
@@ -2224,6 +2302,12 @@ export const chapters = [
       "Indian Endemics",
       "Threats to Endemics",
     ],
+    content: {
+      "Definition of Endemism": "",
+      "Local Adaptation": "",
+      "Indian Endemics": "",
+      "Threats to Endemics": "",
+    },
     questions: [
       {
         question: "Endemic species are:",
@@ -2504,6 +2588,12 @@ export const chapters = [
       "Examples of Keystone Species",
       "Impact of Removal",
     ],
+    content: {
+      "Ecological Role": "",
+      "Trophic Influence": "",
+      "Examples of Keystone Species": "",
+      "Impact of Removal": "",
+    },
     questions: [
       {
         question: "Keystone species are:",
@@ -2779,6 +2869,12 @@ export const chapters = [
       "Iconic Examples",
       "Funding Support",
     ],
+    content: {
+      "Conservation Symbols": "",
+      "Public Awareness": "",
+      "Iconic Examples": "",
+      "Funding Support": "",
+    },
     questions: [
       {
         question: "Flagship species are:",
@@ -3049,6 +3145,12 @@ export const chapters = [
       "Conservation Planning",
       "Associated Species",
     ],
+    content: {
+      "Habitat Protection": "",
+      "Large Range Species": "",
+      "Conservation Planning": "",
+      "Associated Species": "",
+    },
     questions: [
       {
         question: "Umbrella species are:",
@@ -3334,6 +3436,12 @@ export const chapters = [
       "Vulnerable",
       "Red List Categories",
     ],
+    content: {
+      "Critically Endangered": "",
+      "Endangered": "",
+      "Vulnerable": "",
+      "Red List Categories": "",
+    },
     questions: [
       {
         question: "IUCN stands for:",
@@ -3625,6 +3733,12 @@ export const chapters = [
       "Threat Records",
       "Conservation Use",
     ],
+    content: {
+      "Purpose and Scope": "",
+      "Species Documentation": "",
+      "Threat Records": "",
+      "Conservation Use": "",
+    },
     questions: [
       {
         question: "Red Data Book contains:",
@@ -3870,6 +3984,12 @@ export const chapters = [
       "Invasive Species",
       "Climate Change",
     ],
+    content: {
+      "Habitat Loss": "",
+      "Overexploitation": "",
+      "Invasive Species": "",
+      "Climate Change": "",
+    },
     questions: [
       { question: "Conservation of biodiversity means:", options: ["Protection of species", "Destruction", "Pollution", "None"], answer: "Protection of species" },
       { question: "Main aim of conservation is:", options: ["Maintain biodiversity", "Destroy biodiversity", "Pollute", "None"], answer: "Maintain biodiversity" },
@@ -3941,6 +4061,12 @@ export const chapters = [
       "Community Participation",
       "Global Cooperation",
     ],
+    content: {
+      "Need for Conservation": "",
+      "Conservation Strategies": "",
+      "Community Participation": "",
+      "Global Cooperation": "",
+    },
     questions: [
       { question: "In-situ conservation means:", options: ["On-site conservation", "Off-site conservation", "Pollution", "None"], answer: "On-site conservation" },
       { question: "In-situ conservation protects species in:", options: ["Natural habitat", "Zoos", "Labs", "None"], answer: "Natural habitat" },
@@ -4012,6 +4138,12 @@ export const chapters = [
       "Species Recovery",
       "Habitat Management",
     ],
+    content: {
+      "Natural Habitat Protection": "",
+      "Protected Areas": "",
+      "Species Recovery": "",
+      "Habitat Management": "",
+    },
     questions: [
       { question: "In-situ conservation means:", options: ["On-site conservation", "Off-site conservation", "Pollution", "None"], answer: "On-site conservation" },
       { question: "In-situ conservation protects species in:", options: ["Natural habitat", "Zoos", "Labs", "None"], answer: "Natural habitat" },
@@ -4083,6 +4215,12 @@ export const chapters = [
       "Seed Banks",
       "Captive Breeding",
     ],
+    content: {
+      "Zoos and Aquaria": "",
+      "Botanical Gardens": "",
+      "Seed Banks": "",
+      "Captive Breeding": "",
+    },
     questions: [
       { question: "Ex-situ conservation means:", options: ["Off-site conservation", "On-site conservation", "Pollution", "None"], answer: "Off-site conservation" },
       { question: "Ex-situ conservation protects species:", options: ["Outside natural habitat", "In forests", "In oceans", "None"], answer: "Outside natural habitat" },
@@ -4154,6 +4292,12 @@ export const chapters = [
       "Gene Flow",
       "Corridor Conservation",
     ],
+    content: {
+      "Habitat Connectivity": "",
+      "Animal Movement": "",
+      "Gene Flow": "",
+      "Corridor Conservation": "",
+    },
     questions: [
       { question: "Wildlife corridors are:", options: ["Connecting habitats", "Isolated areas", "Cities", "None"], answer: "Connecting habitats" },
       { question: "Main purpose of wildlife corridors:", options: ["Animal movement", "Isolation", "Pollution", "None"], answer: "Animal movement" },
@@ -4225,6 +4369,12 @@ export const chapters = [
       "Legal Framework",
       "Management Challenges",
     ],
+    content: {
+      "Protected Area Types": "",
+      "Conservation Goals": "",
+      "Legal Framework": "",
+      "Management Challenges": "",
+    },
     questions: [
       { question: "National parks are:", options: ["Protected areas", "Urban areas", "Industrial zones", "None"], answer: "Protected areas" },
       { question: "Main aim of national parks:", options: ["Wildlife conservation", "Pollution", "Destruction", "None"], answer: "Wildlife conservation" },
@@ -4296,6 +4446,12 @@ export const chapters = [
       "Habitat Conservation",
       "Management Authorities",
     ],
+    content: {
+      "Legal Status": "",
+      "Protection Rules": "",
+      "Habitat Conservation": "",
+      "Management Authorities": "",
+    },
     questions: [
       { question: "National parks are:", options: ["Protected areas", "Urban areas", "Industrial zones", "None"], answer: "Protected areas" },
       { question: "Main aim of national parks:", options: ["Wildlife conservation", "Pollution", "Destruction", "None"], answer: "Wildlife conservation" },
@@ -4367,6 +4523,12 @@ export const chapters = [
       "Habitat Safeguards",
       "Comparison with Parks",
     ],
+    content: {
+      "Permitted Activities": "",
+      "Species Protection": "",
+      "Habitat Safeguards": "",
+      "Comparison with Parks": "",
+    },
     questions: [
       { question: "Wildlife sanctuaries are:", options: ["Protected areas", "Urban areas", "Industrial zones", "None"], answer: "Protected areas" },
       { question: "Main aim of wildlife sanctuaries:", options: ["Wildlife protection", "Pollution", "Destruction", "None"], answer: "Wildlife protection" },
@@ -4438,6 +4600,12 @@ export const chapters = [
       "Sustainable Use",
       "Global Examples",
     ],
+    content: {
+      "Core Buffer Transition": "",
+      "MAB Programme": "",
+      "Sustainable Use": "",
+      "Global Examples": "",
+    },
     questions: [
       { question: "Biosphere reserves are:", options: ["Large protected areas", "Cities", "Industrial zones", "None"], answer: "Large protected areas" },
       { question: "Main aim of biosphere reserves:", options: ["Conservation & development", "Pollution", "Destruction", "None"], answer: "Conservation & development" },
@@ -4509,6 +4677,12 @@ export const chapters = [
       "Community Support",
       "Legal Protection",
     ],
+    content: {
+      "Buffer Zone Role": "",
+      "Habitat Linkages": "",
+      "Community Support": "",
+      "Legal Protection": "",
+    },
     questions: [
       { question: "Conservation reserves are:", options: ["Protected areas", "Urban areas", "Industrial zones", "None"], answer: "Protected areas" },
       { question: "Main aim of conservation reserves:", options: ["Habitat conservation", "Pollution", "Destruction", "None"], answer: "Habitat conservation" },
@@ -4574,6 +4748,12 @@ export const chapters = [
       "Co-management",
       "Conservation Benefits",
     ],
+    content: {
+      "Local Participation": "",
+      "Traditional Ownership": "",
+      "Co-management": "",
+      "Conservation Benefits": "",
+    },
     questions: [
       { question: "Community reserves are:", options: ["Protected areas managed with community participation", "Urban areas", "Industrial zones", "None"], answer: "Protected areas managed with community participation" },
       { question: "Community reserves are declared by:", options: ["Government", "Industries", "Private companies", "None"], answer: "Government" },
@@ -4645,6 +4825,12 @@ export const chapters = [
       "Montreux Record",
       "Important Indian Sites",
     ],
+    content: {
+      "Wetland Conservation": "",
+      "Designation Criteria": "",
+      "Montreux Record": "",
+      "Important Indian Sites": "",
+    },
     questions: [
       { question: "Ramsar sites are:", options: ["Wetlands of international importance", "Forests", "Cities", "Mountains"], answer: "Wetlands of international importance" },
       { question: "Ramsar Convention was signed in:", options: ["1971", "1980", "1992", "2000"], answer: "1971" },
@@ -4711,6 +4897,13 @@ export const chapters = [
     id: 32,
     title: "Important National Parks of India",
     topics: ["Jim Corbett", "Kaziranga", "Kanha", "Keoladeo", "Silent Valley"],
+    content: {
+      "Jim Corbett": "",
+      "Kaziranga": "",
+      "Kanha": "",
+      "Keoladeo": "",
+      "Silent Valley": "",
+    },
     questions: [
       { question: "Jim Corbett National Park is located in:", options: ["Uttarakhand", "Gujarat", "Rajasthan", "Madhya Pradesh"], answer: "Uttarakhand" },
       { question: "Kaziranga National Park is famous for:", options: ["One-horned rhinoceros", "Lion", "Elephant", "Tiger"], answer: "One-horned rhinoceros" },
@@ -4782,6 +4975,12 @@ export const chapters = [
       "Tiger Census",
       "Conservation Challenges",
     ],
+    content: {
+      "Project Tiger History": "",
+      "Core and Buffer Areas": "",
+      "Tiger Census": "",
+      "Conservation Challenges": "",
+    },
     questions: [
       { question: "Project Tiger was launched in:", options: ["1973", "1980", "1992", "2000"], answer: "1973" },
       { question: "Project Tiger aims to:", options: ["Conserve tigers", "Promote hunting", "Urbanization", "None"], answer: "Conserve tigers" },
@@ -4853,6 +5052,12 @@ export const chapters = [
       "Human-Elephant Conflict",
       "Reserve Management",
     ],
+    content: {
+      "Project Elephant": "",
+      "Elephant Corridors": "",
+      "Human-Elephant Conflict": "",
+      "Reserve Management": "",
+    },
     questions: [
       { question: "Project Tiger was launched in:", options: ["1973", "1980", "1992", "2000"], answer: "1973" },
       { question: "Project Tiger aims to:", options: ["Conserve tigers", "Promote hunting", "Urbanization", "None"], answer: "Conserve tigers" },
@@ -4924,6 +5129,12 @@ export const chapters = [
       "Environmental Impacts",
       "Pollutant Basics",
     ],
+    content: {
+      "Types of Pollution": "",
+      "Sources and Causes": "",
+      "Environmental Impacts": "",
+      "Pollutant Basics": "",
+    },
     questions: [
       { question: "Environmental pollution means:", options: ["Contamination of environment", "Protection of environment", "Cleaning", "None"], answer: "Contamination of environment" },
       { question: "Pollution affects:", options: ["Air, water, soil", "Only air", "Only water", "None"], answer: "Air, water, soil" },
@@ -4989,6 +5200,12 @@ export const chapters = [
       "Smog Formation",
       "Control Measures",
     ],
+    content: {
+      "Primary Pollutants": "",
+      "Secondary Pollutants": "",
+      "Smog Formation": "",
+      "Control Measures": "",
+    },
     questions: [
       { question: "Air pollution means:", options: ["Contamination of air", "Cleaning of air", "Protection", "None"], answer: "Contamination of air" },
       { question: "Main cause of air pollution:", options: ["Human activities", "Natural balance", "Protection", "None"], answer: "Human activities" },
@@ -5060,6 +5277,12 @@ export const chapters = [
       "Eutrophication",
       "Water Treatment",
     ],
+    content: {
+      "Point Sources": "",
+      "Non-point Sources": "",
+      "Eutrophication": "",
+      "Water Treatment": "",
+    },
     questions: [
       { question: "Water pollution means:", options: ["Contamination of water", "Cleaning of water", "Protection", "None"], answer: "Contamination of water" },
       { question: "Main cause of water pollution:", options: ["Human activities", "Natural balance", "Protection", "None"], answer: "Human activities" },
@@ -5131,6 +5354,12 @@ export const chapters = [
       "Land Degradation",
       "Soil Remediation",
     ],
+    content: {
+      "Industrial Contaminants": "",
+      "Agricultural Chemicals": "",
+      "Land Degradation": "",
+      "Soil Remediation": "",
+    },
     questions: [
       { question: "Soil pollution means:", options: ["Contamination of soil", "Cleaning of soil", "Protection", "None"], answer: "Contamination of soil" },
       { question: "Main cause of soil pollution:", options: ["Human activities", "Natural balance", "Protection", "None"], answer: "Human activities" },
@@ -5202,6 +5431,12 @@ export const chapters = [
       "Health Effects",
       "Noise Standards",
     ],
+    content: {
+      "Sources of Noise": "",
+      "Noise Measurement": "",
+      "Health Effects": "",
+      "Noise Standards": "",
+    },
     questions: [
       { question: "Noise pollution means:", options: ["Unwanted sound", "Pleasant music", "Silence", "None"], answer: "Unwanted sound" },
       { question: "Main cause of noise pollution:", options: ["Human activities", "Natural balance", "Silence", "None"], answer: "Human activities" },
@@ -5273,6 +5508,12 @@ export const chapters = [
       "Dissolved Oxygen",
       "Cooling Techniques",
     ],
+    content: {
+      "Heat Sources": "",
+      "Aquatic Impact": "",
+      "Dissolved Oxygen": "",
+      "Cooling Techniques": "",
+    },
     questions: [
       { question: "Thermal pollution means:", options: ["Increase in water temperature", "Decrease in temperature", "Clean water", "None"], answer: "Increase in water temperature" },
       { question: "Main cause of thermal pollution:", options: ["Industrial discharge", "Rain", "Wind", "None"], answer: "Industrial discharge" },
@@ -5344,6 +5585,12 @@ export const chapters = [
       "Health Hazards",
       "Safe Disposal",
     ],
+    content: {
+      "Radioactive Waste": "",
+      "Radiation Sources": "",
+      "Health Hazards": "",
+      "Safe Disposal": "",
+    },
     questions: [
       { question: "Nuclear pollution means:", options: ["Release of radioactive substances", "Clean energy use", "Air purification", "None"], answer: "Release of radioactive substances" },
       { question: "Main source of nuclear pollution:", options: ["Nuclear power plants", "Wind energy", "Solar energy", "None"], answer: "Nuclear power plants" },
@@ -5415,6 +5662,12 @@ export const chapters = [
       "Coral Reef Damage",
       "Marine Laws",
     ],
+    content: {
+      "Oil Spills": "",
+      "Plastic Debris": "",
+      "Coral Reef Damage": "",
+      "Marine Laws": "",
+    },
     questions: [
       { question: "Marine pollution means:", options: ["Contamination of oceans", "Cleaning of oceans", "Protection", "None"], answer: "Contamination of oceans" },
       { question: "Main cause of marine pollution:", options: ["Human activities", "Natural balance", "Protection", "None"], answer: "Human activities" },
@@ -5486,6 +5739,12 @@ export const chapters = [
       "Recycling Methods",
       "Producer Responsibility",
     ],
+    content: {
+      "Sources of E-waste": "",
+      "Hazardous Components": "",
+      "Recycling Methods": "",
+      "Producer Responsibility": "",
+    },
     questions: [
       { question: "E-waste means:", options: ["Electronic waste", "Organic waste", "Plastic waste", "None"], answer: "Electronic waste" },
       { question: "Examples of e-waste include:", options: ["Computers", "Mobiles", "TVs", "All"], answer: "All" },
@@ -5557,6 +5816,12 @@ export const chapters = [
       "Composting",
       "Reduce Reuse Recycle",
     ],
+    content: {
+      "Waste Categories": "",
+      "Landfills": "",
+      "Composting": "",
+      "Reduce Reuse Recycle": "",
+    },
     questions: [
       { question: "Climate change refers to:", options: ["Long-term changes in climate", "Daily weather changes", "Seasonal changes", "None"], answer: "Long-term changes in climate" },
       { question: "Main cause of climate change:", options: ["Human activities", "Natural only", "None", "Unknown"], answer: "Human activities" },
@@ -5628,6 +5893,12 @@ export const chapters = [
       "Marine Impact",
       "Plastic Alternatives",
     ],
+    content: {
+      "Single-use Plastics": "",
+      "Microplastics": "",
+      "Marine Impact": "",
+      "Plastic Alternatives": "",
+    },
     questions: [
       { question: "Climate change refers to:", options: ["Long-term changes in climate", "Daily weather changes", "Seasonal changes", "None"], answer: "Long-term changes in climate" },
       { question: "Main cause of climate change:", options: ["Human activities", "Natural only", "None", "Unknown"], answer: "Human activities" },
@@ -5699,6 +5970,12 @@ export const chapters = [
       "Treatment Methods",
       "Health Risks",
     ],
+    content: {
+      "Waste Categories": "",
+      "Segregation Rules": "",
+      "Treatment Methods": "",
+      "Health Risks": "",
+    },
     questions: [
       { question: "Air pollution is:", options: ["Contamination of air", "Clean air", "Pure oxygen", "None"], answer: "Contamination of air" },
       { question: "Main cause of air pollution:", options: ["Burning fossil fuels", "Planting trees", "Rainfall", "None"], answer: "Burning fossil fuels" },
@@ -5770,6 +6047,12 @@ export const chapters = [
       "Human Drivers",
       "Global Indicators",
     ],
+    content: {
+      "Climate vs Weather": "",
+      "Natural Drivers": "",
+      "Human Drivers": "",
+      "Global Indicators": "",
+    },
     questions: [
       { question: "Global warming means:", options: ["Increase in Earth’s temperature", "Decrease in temperature", "No change", "None"], answer: "Increase in Earth’s temperature" },
       { question: "Main cause of global warming:", options: ["Greenhouse gases", "Rain", "Wind", "None"], answer: "Greenhouse gases" },
@@ -5841,6 +6124,12 @@ export const chapters = [
       "Observed Trends",
       "Future Projections",
     ],
+    content: {
+      "Temperature Rise": "",
+      "Major Causes": "",
+      "Observed Trends": "",
+      "Future Projections": "",
+    },
     questions: [
       { question: "Water pollution is:", options: ["Contamination of water", "Clean water", "Pure water", "None"], answer: "Contamination of water" },
       { question: "Main cause of water pollution:", options: ["Industrial waste", "Rainfall", "Sunlight", "None"], answer: "Industrial waste" },
@@ -5912,6 +6201,12 @@ export const chapters = [
       "Energy Balance",
       "Heat Trapping",
     ],
+    content: {
+      "Natural Greenhouse Effect": "",
+      "Enhanced Effect": "",
+      "Energy Balance": "",
+      "Heat Trapping": "",
+    },
     questions: [
       { question: "Soil pollution is:", options: ["Contamination of soil", "Clean soil", "Fertile soil", "None"], answer: "Contamination of soil" },
       { question: "Main cause of soil pollution:", options: ["Industrial waste", "Rainfall", "Sunlight", "None"], answer: "Industrial waste" },
@@ -5983,6 +6278,12 @@ export const chapters = [
       "Nitrous Oxide",
       "Global Warming Potential",
     ],
+    content: {
+      "Carbon Dioxide": "",
+      "Methane": "",
+      "Nitrous Oxide": "",
+      "Global Warming Potential": "",
+    },
     questions: [
       { question: "Ozone layer is located in:", options: ["Stratosphere", "Troposphere", "Mesosphere", "None"], answer: "Stratosphere" },
       { question: "Ozone layer protects Earth from:", options: ["UV radiation", "Infrared rays", "Visible light", "None"], answer: "UV radiation" },
@@ -6054,6 +6355,12 @@ export const chapters = [
       "Ozone Hole",
       "Environmental Impacts",
     ],
+    content: {
+      "Stratospheric Ozone": "",
+      "Ozone Depleting Substances": "",
+      "Ozone Hole": "",
+      "Environmental Impacts": "",
+    },
     questions: [
       { question: "Marine pollution is:", options: ["Contamination of oceans", "Clean water", "Freshwater supply", "None"], answer: "Contamination of oceans" },
       { question: "Main cause of marine pollution:", options: ["Plastic waste", "Rainfall", "Sunlight", "None"], answer: "Plastic waste" },
@@ -6125,6 +6432,12 @@ export const chapters = [
       "Wet Deposition",
       "Impact on Ecosystems",
     ],
+    content: {
+      "Sulfur Emissions": "",
+      "Nitrogen Oxides": "",
+      "Wet Deposition": "",
+      "Impact on Ecosystems": "",
+    },
     questions: [
       { question: "Marine pollution is:", options: ["Contamination of oceans", "Clean water", "Freshwater supply", "None"], answer: "Contamination of oceans" },
       { question: "Main cause of marine pollution:", options: ["Plastic waste", "Rainfall", "Sunlight", "None"], answer: "Plastic waste" },
@@ -6196,6 +6509,12 @@ export const chapters = [
       "Personal Footprint",
       "Reduction Strategies",
     ],
+    content: {
+      "Emission Sources": "",
+      "Measurement Methods": "",
+      "Personal Footprint": "",
+      "Reduction Strategies": "",
+    },
     questions: [
       { question: "Carbon footprint means:", options: ["Total greenhouse gas emissions by an individual", "Only carbon in soil", "Only oxygen use", "None"], answer: "Total greenhouse gas emissions by an individual" },
       { question: "Carbon footprint is measured in:", options: ["CO2 equivalent", "Liters", "Meters", "None"], answer: "CO2 equivalent" },
@@ -6266,6 +6585,12 @@ export const chapters = [
       "Agriculture Impact",
       "Biodiversity Impact",
     ],
+    content: {
+      "Sea Level Rise": "",
+      "Extreme Weather": "",
+      "Agriculture Impact": "",
+      "Biodiversity Impact": "",
+    },
     questions: [
       { question: "Greenhouse effect is:", options: ["Trapping of heat by gases", "Cooling of Earth", "Rainfall process", "None"], answer: "Trapping of heat by gases" },
       { question: "Main cause of greenhouse effect:", options: ["Greenhouse gases", "Oxygen", "Nitrogen", "None"], answer: "Greenhouse gases" },
@@ -6337,6 +6662,12 @@ export const chapters = [
       "Afforestation",
       "Policy Measures",
     ],
+    content: {
+      "Renewable Energy": "",
+      "Energy Efficiency": "",
+      "Afforestation": "",
+      "Policy Measures": "",
+    },
     questions: [
       { question: "Biomedical waste is:", options: ["Waste from healthcare activities", "Household waste", "Industrial waste", "None"], answer: "Waste from healthcare activities" },
       { question: "Source of biomedical waste:", options: ["Hospitals", "Homes", "Parks", "None"], answer: "Hospitals" },
@@ -6408,6 +6739,12 @@ export const chapters = [
       "Coastal Protection",
       "Disaster Preparedness",
     ],
+    content: {
+      "Resilient Infrastructure": "",
+      "Drought-resistant Crops": "",
+      "Coastal Protection": "",
+      "Disaster Preparedness": "",
+    },
     questions: [
       { question: "Climate change adaptation means:", options: ["Adjusting to climate impacts", "Stopping climate change", "Ignoring climate", "None"], answer: "Adjusting to climate impacts" },
       { question: "Adaptation focuses on:", options: ["Coping with effects", "Reducing emissions", "None", "Balance"], answer: "Coping with effects" },
@@ -6479,6 +6816,12 @@ export const chapters = [
       "Soil Carbon",
       "Blue Carbon",
     ],
+    content: {
+      "Natural Carbon Sinks": "",
+      "Carbon Capture": "",
+      "Soil Carbon": "",
+      "Blue Carbon": "",
+    },
     questions: [
       { question: "Acid rain is:", options: ["Rain with acidic components", "Normal rain", "Pure water", "None"], answer: "Rain with acidic components" },
       { question: "Main cause of acid rain:", options: ["SO2 and NOx", "Oxygen", "Nitrogen", "None"], answer: "SO2 and NOx" },
@@ -6550,6 +6893,12 @@ export const chapters = [
       "Annex Parties",
       "Climate Negotiations",
     ],
+    content: {
+      "Convention Objectives": "",
+      "COP Meetings": "",
+      "Annex Parties": "",
+      "Climate Negotiations": "",
+    },
     questions: [
       { question: "Renewable energy is:", options: ["Energy from natural sources", "Fossil fuel energy", "Nuclear waste", "None"], answer: "Energy from natural sources" },
       { question: "Which is renewable source?", options: ["Solar", "Coal", "Oil", "None"], answer: "Solar" },
@@ -6621,6 +6970,12 @@ export const chapters = [
       "Scientific Consensus",
       "Climate Science Role",
     ],
+    content: {
+      "Assessment Reports": "",
+      "Working Groups": "",
+      "Scientific Consensus": "",
+      "Climate Science Role": "",
+    },
     questions: [
       { question: "Carbon sequestration is:", options: ["Storage of carbon dioxide", "Release of CO2", "Burning carbon", "None"], answer: "Storage of carbon dioxide" },
       { question: "Main purpose of carbon sequestration:", options: ["Reduce CO2 in atmosphere", "Increase CO2", "Pollution", "None"], answer: "Reduce CO2 in atmosphere" },
@@ -6692,6 +7047,12 @@ export const chapters = [
       "Nagoya Protocol",
       "Aichi Targets",
     ],
+    content: {
+      "CBD Objectives": "",
+      "Cartagena Protocol": "",
+      "Nagoya Protocol": "",
+      "Aichi Targets": "",
+    },
     questions: [
       { question: "Carbon sequestration is:", options: ["Storage of carbon dioxide", "Release of CO2", "Burning carbon", "None"], answer: "Storage of carbon dioxide" },
       { question: "Main purpose of carbon sequestration:", options: ["Reduce CO2 in atmosphere", "Increase CO2", "Pollution", "None"], answer: "Reduce CO2 in atmosphere" },
@@ -6763,6 +7124,12 @@ export const chapters = [
       "Appendix II",
       "Appendix III",
     ],
+    content: {
+      "Wildlife Trade Control": "",
+      "Appendix I": "",
+      "Appendix II": "",
+      "Appendix III": "",
+    },
     questions: [
       { question: "SDGs stand for:", options: ["Sustainable Development Goals", "Social Development Goals", "Scientific Development Goals", "None"], answer: "Sustainable Development Goals" },
       { question: "SDGs were adopted by:", options: ["United Nations", "WHO", "NASA", "None"], answer: "United Nations" },
@@ -6840,6 +7207,12 @@ export const chapters = [
       "Montreux Record",
       "World Wetlands Day",
     ],
+    content: {
+      "Wetlands of Importance": "",
+      "Wise Use Principle": "",
+      "Montreux Record": "",
+      "World Wetlands Day": "",
+    },
     questions: [
       { question: "Ramsar Convention focuses on:", options: ["Wetland conservation", "Air pollution", "Forests", "None"], answer: "Wetland conservation" },
       { question: "Ramsar Convention was signed in:", options: ["1971", "1980", "1992", "2000"], answer: "1971" },
@@ -6911,6 +7284,12 @@ export const chapters = [
       "Global Stocktake",
       "Climate Finance",
     ],
+    content: {
+      "Temperature Goal": "",
+      "Nationally Determined Contributions": "",
+      "Global Stocktake": "",
+      "Climate Finance": "",
+    },
     questions: [
       { question: "IPCC stands for:", options: ["Intergovernmental Panel on Climate Change", "International Panel on Climate Control", "Indian Panel on Climate Change", "None"], answer: "Intergovernmental Panel on Climate Change" },
       { question: "IPCC was established in:", options: ["1988", "1992", "2000", "None"], answer: "1988" },
@@ -6982,6 +7361,12 @@ export const chapters = [
       "Joint Implementation",
       "Carbon Trading",
     ],
+    content: {
+      "Emission Targets": "",
+      "Clean Development Mechanism": "",
+      "Joint Implementation": "",
+      "Carbon Trading": "",
+    },
     questions: [
       { question: "EIA stands for:", options: ["Environmental Impact Assessment", "Environmental Inspection Agency", "Ecological Impact Analysis", "None"], answer: "Environmental Impact Assessment" },
       { question: "Purpose of EIA:", options: ["Assess environmental effects of projects", "Increase pollution", "Destroy habitats", "None"], answer: "Assess environmental effects of projects" },
@@ -7053,6 +7438,12 @@ export const chapters = [
       "Environmental Governance",
       "Headquarters and Role",
     ],
+    content: {
+      "UNEP Mandate": "",
+      "Global Initiatives": "",
+      "Environmental Governance": "",
+      "Headquarters and Role": "",
+    },
     questions: [
       { question: "Kyoto Protocol is related to:", options: ["Climate change", "Wildlife", "Oceans", "None"], answer: "Climate change" },
       { question: "Kyoto Protocol was adopted in:", options: ["1997", "1992", "2005", "1988"], answer: "1997" },
@@ -7124,6 +7515,12 @@ export const chapters = [
       "Commissions",
       "Conservation Mission",
     ],
+    content: {
+      "IUCN Structure": "",
+      "Red List": "",
+      "Commissions": "",
+      "Conservation Mission": "",
+    },
     questions: [
       { question: "CITES stands for:", options: ["Convention on International Trade in Endangered Species", "Climate Trade System", "International Wildlife Trade Law", "None"], answer: "Convention on International Trade in Endangered Species" },
       { question: "CITES was established in:", options: ["1973", "1988", "1992", "None"], answer: "1973" },
@@ -7195,6 +7592,12 @@ export const chapters = [
       "Living Planet Report",
       "Earth Hour",
     ],
+    content: {
+      "WWF Mission": "",
+      "Panda Symbol": "",
+      "Living Planet Report": "",
+      "Earth Hour": "",
+    },
     questions: [
       { question: "NGT stands for:", options: ["National Green Tribunal", "National Government Tribunal", "Natural Green Task", "None"], answer: "National Green Tribunal" },
       { question: "NGT was established in:", options: ["2010", "2005", "2015", "None"], answer: "2010" },
@@ -7266,6 +7669,12 @@ export const chapters = [
       "Central Government Powers",
       "Penalties",
     ],
+    content: {
+      "Act Background": "",
+      "Key Provisions": "",
+      "Central Government Powers": "",
+      "Penalties": "",
+    },
     questions: [
       { question: "IUCN stands for:", options: ["International Union for Conservation of Nature", "International Climate Network", "Global Nature Council", "None"], answer: "International Union for Conservation of Nature" },
       { question: "IUCN was established in:", options: ["1948", "1972", "1992", "2000"], answer: "1948" },
@@ -7337,6 +7746,12 @@ export const chapters = [
       "Anti-poaching Rules",
       "Important Amendments",
     ],
+    content: {
+      "Schedules I to VI": "",
+      "Protected Species": "",
+      "Anti-poaching Rules": "",
+      "Important Amendments": "",
+    },
     questions: [
       { question: "Ramsar Convention is related to:", options: ["Wetland conservation", "Forest conservation", "Air pollution", "None"], answer: "Wetland conservation" },
       { question: "Ramsar Convention was adopted in:", options: ["1971", "1988", "1992", "None"], answer: "1971" },
@@ -7408,6 +7823,12 @@ export const chapters = [
       "Compensatory Afforestation",
       "Advisory Committee",
     ],
+    content: {
+      "Act Objectives": "",
+      "Forest Diversion Rules": "",
+      "Compensatory Afforestation": "",
+      "Advisory Committee": "",
+    },
     questions: [
       { question: "Environmental education means:", options: ["Learning about environment", "Ignoring nature", "Pollution", "None"], answer: "Learning about environment" },
       { question: "Main aim of environmental education:", options: ["Awareness", "Pollution", "Destruction", "None"], answer: "Awareness" },
@@ -7479,6 +7900,12 @@ export const chapters = [
       "Benefit Sharing",
       "Biodiversity Committees",
     ],
+    content: {
+      "National Biodiversity Authority": "",
+      "State Boards": "",
+      "Benefit Sharing": "",
+      "Biodiversity Committees": "",
+    },
     questions: [
       { question: "Forest Conservation Act was enacted in:", options: ["1980", "1972", "1986", "2002"], answer: "1980" },
       { question: "Forest Conservation Act aims to:", options: ["Protect forests", "Promote deforestation", "Industrial growth", "None"], answer: "Protect forests" },
@@ -7550,6 +7977,12 @@ export const chapters = [
       "Tribunal Structure",
       "Key Judgments",
     ],
+    content: {
+      "Establishment": "",
+      "Jurisdiction": "",
+      "Tribunal Structure": "",
+      "Key Judgments": "",
+    },
     questions: [
       { question: "IUCN stands for:", options: ["International Union for Conservation of Nature", "International Union of Climate Network", "Indian Union for Conservation", "None"], answer: "International Union for Conservation of Nature" },
       { question: "IUCN was established in:", options: ["1948", "1972", "1992", "None"], answer: "1948" },
@@ -7621,6 +8054,12 @@ export const chapters = [
       "Public Consultation",
       "Environmental Clearance",
     ],
+    content: {
+      "Screening": "",
+      "Scoping": "",
+      "Public Consultation": "",
+      "Environmental Clearance": "",
+    },
     questions: [
       { question: "Environmental governance refers to:", options: ["Management of environment", "Pollution", "Destruction", "None"], answer: "Management of environment" },
       { question: "Environmental governance involves:", options: ["Policies & laws", "Pollution", "None", "Growth"], answer: "Policies & laws" },
@@ -7694,6 +8133,12 @@ export const chapters = [
       "Global Targets",
       "Implementation Challenges",
     ],
+    content: {
+      "Agenda 2030": "",
+      "Environmental Goals": "",
+      "Global Targets": "",
+      "Implementation Challenges": "",
+    },
     questions: [
       { question: "Renewable energy means:", options: ["Energy from natural sources", "Energy from fossil fuels", "Limited energy", "None"], answer: "Energy from natural sources" },
       { question: "Which is renewable energy?", options: ["Solar", "Coal", "Petrol", "None"], answer: "Solar" },
@@ -7756,6 +8201,7 @@ export const chapters = [
       {
         id: 75,
         title: "Renewable Energy Sources",
+        content: "solar energy is good",
         topics: [
           "Solar Energy",
           "Wind Energy",
@@ -7763,6 +8209,13 @@ export const chapters = [
           "Biomass Energy",
           "Geothermal Energy",
         ],
+    content: {
+      "Solar Energy": "",
+      "Wind Energy": "",
+      "Hydropower": "",
+      "Biomass Energy": "",
+      "Geothermal Energy": "",
+    },
         questions: [
           { question: "Environmental ethics deals with:", options: ["Moral relationship with environment", "Pollution", "Destruction", "None"], answer: "Moral relationship with environment" },
           { question: "Environmental ethics promotes:", options: ["Respect for nature", "Exploitation", "Pollution", "None"], answer: "Respect for nature" },
@@ -7780,7 +8233,7 @@ export const chapters = [
           { question: "Which promotes harmony with nature?", options: ["Ethics", "Pollution", "None", "Growth"], answer: "Ethics" },
           { question: "Which reduces overexploitation?", options: ["Ethics", "Pollution", "None", "Growth"], answer: "Ethics" },
           { question: "Environmental ethics helps:", options: ["Preserve biodiversity", "Destroy biodiversity", "None", "Growth"], answer: "Preserve biodiversity" },
-          { question: "Which supports sustainable living?", options: ["Ethics", "Pollution", "None", "Growth"], answer: "Ethics" },
+          { question: "Whic h supports sustainable living?", options: ["Ethics", "Pollution", "None", "Growth"], answer: "Ethics" },
 
           { question: "Environmental ethics encourages:", options: ["Resource conservation", "Overuse", "None", "Growth"], answer: "Resource conservation" },
           { question: "Which reduces pollution?", options: ["Ethical behavior", "Pollution", "None", "Growth"], answer: "Ethical behavior" },
