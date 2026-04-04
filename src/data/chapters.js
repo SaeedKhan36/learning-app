@@ -9,10 +9,13 @@ export const chapters = [
       "Biosphere Basics",
     ],
     content: {
-      "Definition of Environment": "",
-      "Importance of Ecology": "",
-      "Human & Environment Interaction": "",
-      "Biosphere Basics": "",
+      "Definition of Environment": "Environment refers to the total surroundings in which living organisms exist and interact. It includes both biotic and abiotic components. Biotic components consist of plants, animals, and microorganisms. Abiotic components include air, water, soil, temperature, and climate. These elements work together to support life on Earth. The environment provides essential resources such as food, water, and shelter. It also regulates natural processes like weather and nutrient cycles. Every organism depends on the environment for survival. The interaction between living and non-living components creates ecosystems. These ecosystems maintain balance through energy flow and nutrient cycling. The environment can be natural or man-made. Natural environment includes forests, rivers, mountains, and oceans. Human-made environment includes cities, industries, and infrastructure. Human activities have a major impact on the environment. Pollution, deforestation, and climate change are key issues. Protecting the environment is necessary for sustainable development. Environmental awareness helps in conservation efforts. Laws and policies are also implemented to protect it. A healthy environment ensures a healthy life for all organisms. Thus, the environment is the foundation of life on Earth.",
+
+      "Importance of Ecology": "Ecology is the study of interactions between organisms and their environment. It helps us understand how living systems function. Ecology explains relationships such as food chains and food webs. It shows how energy flows through ecosystems. It helps maintain ecological balance in nature. Ecology is important for conserving biodiversity. It helps identify endangered species and protect them. It provides knowledge for sustainable use of resources. Ecology helps in managing forests, wildlife, and water resources. It also plays a role in agriculture and food production. Understanding ecology helps reduce environmental damage. It helps control pollution and waste management. Ecology is important in tackling climate change. It provides solutions for environmental problems. It helps in restoring damaged ecosystems. Ecological knowledge supports sustainable development goals. It increases awareness about environmental protection. It helps policymakers make better decisions. Ecology connects humans with nature. It ensures long-term survival of all species on Earth.",
+
+      "Human & Environment Interaction": "Humans and the environment are closely interconnected. Humans depend on the environment for food, water, air, and shelter. Natural resources are used for development and economic growth. Agriculture, industry, and urbanization rely on environmental resources. However, human activities often harm the environment. Deforestation leads to loss of biodiversity. Industrial activities cause pollution of air, water, and soil. Overuse of resources leads to depletion. Climate change is a major result of human activities. Burning of fossil fuels increases greenhouse gases. Urban expansion destroys natural habitats. Waste generation creates environmental challenges. However, humans can also protect the environment. Sustainable practices help reduce damage. Renewable energy sources reduce pollution. Conservation efforts protect ecosystems. Recycling and waste management improve environmental health. Environmental laws regulate harmful activities. Awareness and education play a key role. Responsible behavior ensures balance. A sustainable relationship between humans and environment is essential for future generations.",
+
+      "Biosphere Basics": "The biosphere is the zone of life on Earth. It includes all living organisms and their environments. It extends from the deepest oceans to the upper atmosphere. The biosphere includes three main components: lithosphere, hydrosphere, and atmosphere. The lithosphere is the land part of Earth. The hydrosphere includes all water bodies. The atmosphere is the layer of gases surrounding Earth. All life forms exist within these interconnected systems. The biosphere supports biodiversity. It allows interaction between organisms and their surroundings. Energy flows through the biosphere mainly from the sun. Producers convert solar energy into food. Consumers depend on producers for energy. Decomposers recycle nutrients back into the system. This maintains ecological balance. The biosphere is dynamic and constantly changing. Human activities are affecting the biosphere negatively. Pollution and climate change disrupt natural systems. Conservation is necessary to protect it. A stable biosphere is essential for sustaining life on Earth."
     },
     questions: [
       {
@@ -282,10 +285,13 @@ export const chapters = [
       "Scope in Modern World",
     ],
     content: {
-      "Autecology": "",
-      "Synecology": "",
-      "Levels of Organization": "",
-      "Scope in Modern World": "",
+      "Autecology": "Autecology is the study of an individual organism or a single species in relation to its environment. It focuses on how a species adapts to environmental conditions. It examines factors such as temperature, light, water, and nutrients. Autecology helps understand the behavior and survival strategies of species. It studies physiological, morphological, and behavioral adaptations. Each species has specific environmental requirements. Autecology explains how organisms respond to environmental stress. It helps in understanding species distribution across regions. The study is important in conservation biology. It helps identify the needs of endangered species. Autecology also supports agriculture by improving crop productivity. It explains how plants respond to soil and climate conditions. The concept is useful in forestry and wildlife management. It helps predict how species react to climate change. Autecology studies ecological niches of organisms. It focuses on individual-level interactions with the environment. It provides detailed knowledge about a species. It is more specific compared to broader ecological studies. It plays a key role in environmental research. Thus, autecology helps in understanding the life of a species in its natural habitat.",
+
+      "Synecology": "Synecology is the study of groups of organisms or communities in relation to their environment. It focuses on interactions between different species. It examines how populations form communities. Synecology studies ecosystems as a whole. It includes relationships like predation, competition, and symbiosis. It helps understand food chains and food webs. It explains how energy flows through ecosystems. Synecology studies biodiversity within ecosystems. It helps in understanding ecological balance. It examines how environmental factors affect communities. It plays a role in ecosystem conservation. Synecology helps manage natural habitats. It is important in understanding ecosystem stability. It studies succession and changes in communities over time. It explains how ecosystems respond to disturbances. It is useful in environmental planning. Synecology supports sustainable development. It provides insights into ecosystem functioning. It connects different species within a system. Thus, synecology gives a broader view of ecological relationships.",
+
+      "Levels of Organization": "Ecology studies living systems at different levels of organization. The smallest level is the organism. An organism is an individual living being. The next level is population, which includes members of the same species. Populations interact to form communities. A community consists of different species living together. Communities interact with the environment to form ecosystems. An ecosystem includes both biotic and abiotic components. Multiple ecosystems together form a biome. Biomes are large regions like forests and deserts. The highest level is the biosphere. The biosphere includes all life on Earth. Each level is interconnected. Changes at one level affect others. Energy flows across all levels. Nutrient cycles operate within these levels. Understanding these levels helps in ecological studies. It helps in conservation planning. It explains the complexity of life systems. It is essential for environmental management. Thus, levels of organization provide a structured way to study ecology.",
+
+      "Scope in Modern World": "The scope of ecology has expanded greatly in the modern world. It plays a key role in solving environmental problems. Ecology helps address climate change issues. It supports sustainable development practices. It is important in biodiversity conservation. Ecology helps in pollution control and waste management. It is used in urban planning and development. It supports agriculture through sustainable farming methods. Ecology helps manage natural resources efficiently. It plays a role in disaster management. It helps predict environmental changes. Ecology is important in environmental education. It raises awareness among people. It supports policymaking and environmental laws. It is used in wildlife conservation programs. Ecology helps restore damaged ecosystems. It contributes to global environmental goals. It integrates science with society. It is essential for maintaining ecological balance. Thus, ecology has a wide and important scope in today’s world."
     },
     questions: [
       {
@@ -571,10 +577,13 @@ export const chapters = [
       "Homeostasis",
     ],
     content: {
-      "Biotic Components": "",
-      "Abiotic Components": "",
-      "Functions of Ecosystem": "",
-      "Homeostasis": "",
+      "Biotic Components": "An ecosystem is a functional unit of nature where living organisms interact with each other and their physical environment. It includes both biotic and abiotic components working together. The term ecosystem was introduced by A.G. Tansley. It represents a system formed by the interaction of organisms with their surroundings. Ecosystems can vary in size from small ponds to large forests. They are self-sustaining units. Energy flows through ecosystems from the sun. Nutrients cycle within ecosystems. Each organism has a specific role. Ecosystems maintain balance through interactions. Disturbances can disrupt this balance. Ecosystems support biodiversity. They provide essential resources. They regulate environmental conditions. Human activities affect ecosystems. Conservation is important for sustainability. Ecosystems are dynamic in nature. They change over time. They are essential for life on Earth. Thus, ecosystems are fundamental ecological units.",
+
+      "Abiotic Components": "Ecosystems consist of biotic and abiotic components. Biotic components include living organisms. These are classified into producers, consumers, and decomposers. Producers are green plants that make food. Consumers depend on producers for energy. Decomposers break down organic matter. Abiotic components include non-living factors. These include sunlight, air, water, soil, and temperature. These factors influence living organisms. Interaction between biotic and abiotic components forms ecosystems. Energy flows from producers to consumers. Nutrients cycle between living and non-living components. Each component plays a vital role. Any imbalance affects the system. Components are interdependent. They maintain ecological stability. Environmental changes impact components. Understanding components helps in conservation. Thus, both components are essential for ecosystem functioning.",
+
+      "Functions of Ecosystem": "Ecosystems are classified into natural and artificial types. Natural ecosystems occur in nature without human intervention. Examples include forests, deserts, and oceans. Artificial ecosystems are man-made systems. Examples include farms and aquariums. Ecosystems can also be terrestrial or aquatic. Terrestrial ecosystems include forests and grasslands. Aquatic ecosystems include freshwater and marine systems. Freshwater ecosystems include lakes and rivers. Marine ecosystems include oceans and seas. Each type has unique characteristics. Climate influences ecosystem type. Biodiversity varies across ecosystems. Each ecosystem supports different species. Human activities impact ecosystems. Conservation efforts are needed for all types. Ecosystems provide ecosystem services. They support life in different ways. Understanding types helps in ecological study.",
+
+      "Homeostasis": "Ecosystems perform several important functions. Energy flow is a primary function. Solar energy is converted by producers. Energy passes through food chains. Nutrient cycling is another function. Nutrients are recycled through decomposers. Ecosystems regulate climate. They purify air and water. They support biodiversity. Ecosystems provide food and resources. They maintain ecological balance. They support soil formation. They help in waste decomposition. Ecosystems regulate water cycles. They provide habitat for species. Human survival depends on ecosystem functions. Disruption affects these functions. Conservation helps maintain functions. Sustainable use is important. Ecosystem functions are essential for life."
     },
     questions: [
       {
@@ -834,10 +843,13 @@ export const chapters = [
       "Aquatic Ecosystems",
     ],
     content: {
-      "Forest Ecosystems": "",
-      "Grassland Ecosystems": "",
-      "Desert Ecosystems": "",
-      "Aquatic Ecosystems": "",
+      "Forest Ecosystems": "A food chain is a linear sequence of organisms through which energy flows. It starts with producers and ends with top consumers. Producers convert solar energy into food. Herbivores feed on producers. Carnivores feed on herbivores. Each step is called a trophic level. Energy decreases at each level. Food chains show feeding relationships. They are simple representations. They help understand energy transfer. Disruption affects the entire chain. Food chains exist in all ecosystems. They maintain ecological balance. Human activities can disturb them. Overexploitation affects chains. Conservation helps maintain them. Thus, food chains are essential ecological concepts.",
+
+      "Grassland Ecosystems": "There are mainly two types of food chains. Grazing food chain starts with plants. It moves from producers to herbivores and carnivores. Detritus food chain starts with dead organic matter. Decomposers break it down. Detritivores feed on decomposed matter. Both chains exist in ecosystems. Grazing chain is common in grasslands. Detritus chain is common in forests. These chains recycle nutrients. They maintain ecological balance. Each type has importance. Energy flow differs in both. They support biodiversity. They are interconnected. Thus, types of food chains explain ecosystem functioning.",
+
+      "Desert Ecosystems": "A food web is a network of interconnected food chains. It shows complex feeding relationships. Organisms have multiple food sources. It provides stability to ecosystems. If one chain is disturbed, others compensate. Food webs are more realistic than food chains. They show interdependence. They support biodiversity. Energy flows through multiple paths. They increase ecosystem resilience. Food webs exist in all ecosystems. They maintain ecological balance. Human impact affects webs. Conservation helps protect them. Thus, food webs represent complex ecological interactions.",
+
+      "Aquatic Ecosystems": "Ecological pyramids represent trophic levels graphically. They show energy, biomass, or numbers. Energy pyramid is always upright. Biomass pyramid may vary. Number pyramid shows organism count. Pyramids help understand ecosystem structure. Energy decreases at higher levels. They show efficiency of energy transfer. They are useful in ecological studies. They help in conservation planning. Human activities affect pyramids. Thus, ecological pyramids are important tools."
     },
     questions: [
       {
@@ -1096,16 +1108,19 @@ export const chapters = [
     id: 5,
     title: "Food Chain & Food Web",
     topics: [
-      "Grazing Food Chain",
-      "Detritus Food Chain",
-      "Trophic Levels",
-      "Interconnectivity",
+      "Types of Biodiversity",
+      "Importance of Biodiversity",
+      "Threats to Biodiversity",
+      "Conservation of Biodiversity",
     ],
     content: {
-      "Grazing Food Chain": "",
-      "Detritus Food Chain": "",
-      "Trophic Levels": "",
-      "Interconnectivity": "",
+      "Types of Biodiversity": "Biodiversity refers to the variety of life on Earth. It includes genetic, species, and ecosystem diversity. Genetic diversity exists within species. Species diversity refers to variety of species. Ecosystem diversity includes different habitats. Biodiversity varies across regions. Tropical areas have high biodiversity. It supports ecosystem stability. It helps in adaptation. It is essential for survival. Loss affects ecosystems. Thus, biodiversity types explain life variety.",
+
+      "Importance of Biodiversity": "Biodiversity is essential for ecosystem functioning. It provides food, medicine, and resources. It supports ecological balance. It helps in climate regulation. It supports agriculture. It has cultural importance. It supports economic development. Loss affects humans. Thus, biodiversity is vital.",
+
+      "Threats to Biodiversity": "Biodiversity faces many threats. Deforestation destroys habitats. Pollution harms species. Climate change affects ecosystems. Overexploitation reduces species. Invasive species disrupt balance. Human activities are main causes. Conservation is needed.",
+
+      "Conservation of Biodiversity": "Conservation protects biodiversity. In-situ conservation protects habitats. Ex-situ conservation protects species outside habitats. Laws help protect species. Awareness is important. Sustainable practices help. Thus, conservation is essential."
     },
     questions: [
       {
@@ -1395,10 +1410,13 @@ export const chapters = [
       "Inverted Pyramids",
     ],
     content: {
-      "Pyramid of Number": "",
-      "Pyramid of Biomass": "",
-      "Pyramid of Energy": "",
-      "Inverted Pyramids": "",
+      "Pyramid of Number": "The pyramid of numbers represents the number of organisms present at each trophic level in an ecosystem. It gives a quantitative idea of how many individuals are supported at each level. In most ecosystems, the pyramid of numbers is upright. This means producers are highest in number, followed by herbivores and then carnivores. For example, grass supports many herbivores, which in turn support fewer carnivores. However, this pyramid can sometimes be inverted. In a forest ecosystem, a single large tree may support many herbivores. Thus, the number of producers can be less than consumers. The pyramid does not consider the size of organisms. A single tree is counted the same as a small plant. It only focuses on count, not biomass or energy. This can sometimes give a misleading picture. The pyramid of numbers helps understand population structure. It shows how organisms depend on each other numerically. It reflects ecological relationships. It is useful in studying ecosystems. However, it has limitations due to ignoring organism size. Despite this, it is an important ecological tool. It helps in understanding food chains. It also shows the balance within ecosystems. Thus, the pyramid of numbers explains the numerical relationship between trophic levels.",
+
+      "Pyramid of Biomass": "The pyramid of biomass represents the total mass of living organisms at each trophic level. Biomass refers to the dry weight of organisms in a given area. This pyramid gives a better idea than numbers because it considers size and mass. In most terrestrial ecosystems, the pyramid of biomass is upright. Producers like plants have the highest biomass. Herbivores have less biomass, and carnivores have the least. This is because energy decreases at each trophic level. However, in aquatic ecosystems, the pyramid may be inverted. Phytoplankton have less biomass but reproduce quickly. They support a larger biomass of zooplankton and fish. Thus, the pyramid appears inverted. Biomass pyramids show energy storage in organisms. They help understand ecosystem productivity. They are useful in ecological studies. They provide insight into food availability. They also help in resource management. However, measuring biomass can be difficult. Seasonal variations can affect results. Despite limitations, biomass pyramids are important. They reflect ecosystem structure more accurately than number pyramids. Thus, they are widely used in ecology.",
+
+      "Pyramid of Energy": "The pyramid of energy represents the flow of energy at different trophic levels in an ecosystem. It is always upright and cannot be inverted. This is because energy decreases at each successive trophic level. Producers capture solar energy through photosynthesis. Only a small portion of this energy is transferred to herbivores. Even less energy reaches carnivores. Most energy is lost as heat during metabolic processes. This follows the law of thermodynamics. The pyramid shows energy flow per unit area per unit time. It gives a clear picture of energy transfer efficiency. It is the most accurate representation among all pyramids. It helps understand ecosystem functioning. It shows the limitation of food chains. Longer food chains have less energy available at higher levels. It highlights the importance of producers. It is useful in conservation and management. It explains why top predators are few. Energy pyramids cannot be inverted under any condition. They reflect real ecological conditions. Thus, the pyramid of energy is the most reliable ecological model.",
+
+      "Inverted Pyramids": "Inverted pyramids occur when the lower trophic level has less quantity than the higher level. This can happen in pyramids of numbers or biomass. In the pyramid of numbers, a single tree may support many insects and birds. Thus, producers are fewer than consumers. In biomass pyramids, aquatic ecosystems often show inversion. Phytoplankton have less biomass but reproduce rapidly. They support larger biomass of consumers like fish. Inverted pyramids indicate dynamic ecosystems. They show rapid turnover of organisms. They reflect unique ecological conditions. However, energy pyramids are never inverted. This is because energy flow always decreases. Inverted pyramids highlight limitations of certain models. They show that numbers and biomass alone are not sufficient. Understanding inverted pyramids helps in ecological analysis. They provide insight into ecosystem functioning. They show that ecosystems can vary greatly. They emphasize the importance of energy flow. Thus, inverted pyramids are special cases in ecological studies."
     },
     questions: [],
   },
@@ -1417,8 +1435,70 @@ export const chapters = [
       "Lindeman's Concept": "",
       "Energy Pathways": "",
     },
-    questions: [],
+    questions: [
+
+      { question: "Energy flow in an ecosystem is:", options: ["Unidirectional", "Cyclic", "Random", "Static"], answer: "Unidirectional" },
+      { question: "Primary source of energy in ecosystem:", options: ["Sun", "Soil", "Water", "Wind"], answer: "Sun" },
+      { question: "Energy enters ecosystem through:", options: ["Producers", "Consumers", "Decomposers", "Herbivores"], answer: "Producers" },
+      { question: "Plants convert solar energy into:", options: ["Chemical energy", "Mechanical energy", "Heat energy", "Sound energy"], answer: "Chemical energy" },
+      { question: "First trophic level consists of:", options: ["Producers", "Consumers", "Carnivores", "Decomposers"], answer: "Producers" },
+
+      { question: "Second trophic level consists of:", options: ["Herbivores", "Carnivores", "Producers", "Decomposers"], answer: "Herbivores" },
+      { question: "Energy decreases at each trophic level due to:", options: ["Heat loss", "Water loss", "Oxygen gain", "Nitrogen gain"], answer: "Heat loss" },
+      { question: "Ten percent law was proposed by:", options: ["Lindeman", "Darwin", "Newton", "Einstein"], answer: "Lindeman" },
+      { question: "According to Ten Percent Law, energy transferred is:", options: ["10%", "50%", "90%", "100%"], answer: "10%" },
+      { question: "Remaining energy is lost as:", options: ["Heat", "Water", "Food", "Oxygen"], answer: "Heat" },
+
+      { question: "Energy pyramid is always:", options: ["Upright", "Inverted", "Circular", "Flat"], answer: "Upright" },
+      { question: "Energy flow follows which law:", options: ["Thermodynamics", "Gravity", "Motion", "Relativity"], answer: "Thermodynamics" },
+      { question: "First law of thermodynamics states:", options: ["Energy cannot be created or destroyed", "Energy is lost", "Energy increases", "Energy disappears"], answer: "Energy cannot be created or destroyed" },
+      { question: "Second law of thermodynamics states:", options: ["Energy loss as heat", "Energy increases", "Energy cycles", "Energy is constant"], answer: "Energy loss as heat" },
+      { question: "Energy transfer efficiency is:", options: ["Low", "High", "Equal", "Infinite"], answer: "Low" },
+
+      { question: "Food chain represents:", options: ["Energy transfer", "Water cycle", "Air cycle", "Soil cycle"], answer: "Energy transfer" },
+      { question: "Food web shows:", options: ["Multiple food chains", "Single chain", "Water flow", "Air flow"], answer: "Multiple food chains" },
+      { question: "Lindeman's concept is related to:", options: ["Energy flow", "Water cycle", "Carbon cycle", "Nitrogen cycle"], answer: "Energy flow" },
+      { question: "Energy flow is not cyclic because:", options: ["Energy is lost as heat", "Energy is reused", "Energy increases", "Energy is stored"], answer: "Energy is lost as heat" },
+      { question: "Producers are also called:", options: ["Autotrophs", "Heterotrophs", "Carnivores", "Omnivores"], answer: "Autotrophs" },
+
+      { question: "Consumers are also called:", options: ["Heterotrophs", "Autotrophs", "Producers", "Decomposers"], answer: "Heterotrophs" },
+      { question: "Herbivores feed on:", options: ["Plants", "Animals", "Both", "None"], answer: "Plants" },
+      { question: "Carnivores feed on:", options: ["Animals", "Plants", "Both", "None"], answer: "Animals" },
+      { question: "Decomposers break down:", options: ["Dead matter", "Living plants", "Air", "Water"], answer: "Dead matter" },
+      { question: "Energy flow in ecosystem starts with:", options: ["Sunlight", "Water", "Soil", "Wind"], answer: "Sunlight" },
+
+      { question: "Energy is stored in organisms as:", options: ["Chemical energy", "Heat", "Light", "Sound"], answer: "Chemical energy" },
+      { question: "Each trophic level receives energy from:", options: ["Previous level", "Next level", "Sun only", "Water"], answer: "Previous level" },
+      { question: "Energy flow is represented by:", options: ["Food chain", "Water cycle", "Air cycle", "Soil profile"], answer: "Food chain" },
+      { question: "Loss of energy limits:", options: ["Trophic levels", "Water levels", "Soil layers", "Air pressure"], answer: "Trophic levels" },
+      { question: "Maximum energy is at:", options: ["Producers", "Top consumers", "Middle level", "Decomposers"], answer: "Producers" },
+
+      { question: "Top trophic level has:", options: ["Least energy", "Most energy", "Equal energy", "No energy"], answer: "Least energy" },
+      { question: "Energy transfer between trophic levels is:", options: ["Inefficient", "Efficient", "Perfect", "Equal"], answer: "Inefficient" },
+      { question: "Energy pathways include:", options: ["Grazing and detritus", "Water and air", "Soil and rock", "Heat and light"], answer: "Grazing and detritus" },
+      { question: "Grazing food chain starts with:", options: ["Producers", "Consumers", "Decomposers", "Carnivores"], answer: "Producers" },
+      { question: "Detritus food chain starts with:", options: ["Dead organic matter", "Living plants", "Animals", "Sun"], answer: "Dead organic matter" },
+
+      { question: "Energy in detritus chain is used by:", options: ["Decomposers", "Producers", "Herbivores", "Carnivores"], answer: "Decomposers" },
+      { question: "Energy flow maintains:", options: ["Ecosystem balance", "Pollution", "Destruction", "None"], answer: "Ecosystem balance" },
+      { question: "Energy flow is essential for:", options: ["Life processes", "Machines", "Buildings", "None"], answer: "Life processes" },
+      { question: "Energy pyramid shows:", options: ["Energy distribution", "Water flow", "Air movement", "Soil layers"], answer: "Energy distribution" },
+      { question: "Energy cannot be recycled because:", options: ["Lost as heat", "Stored in soil", "Used again", "None"], answer: "Lost as heat" },
+
+      { question: "Energy flow supports:", options: ["Ecosystem functioning", "Pollution", "Destruction", "None"], answer: "Ecosystem functioning" },
+      { question: "Higher trophic levels depend on:", options: ["Lower levels", "Water", "Air", "Soil"], answer: "Lower levels" },
+      { question: "Energy transformation occurs in:", options: ["Producers", "Consumers", "Both", "None"], answer: "Both" },
+      { question: "Energy decreases due to:", options: ["Respiration", "Growth", "Reproduction", "Storage"], answer: "Respiration" },
+      { question: "Energy flow diagram is called:", options: ["Energy pyramid", "Water cycle", "Carbon cycle", "Nitrogen cycle"], answer: "Energy pyramid" },
+
+      { question: "Energy flow is continuous due to:", options: ["Sunlight supply", "Water supply", "Soil nutrients", "Air"], answer: "Sunlight supply" },
+      { question: "Energy flow is important for:", options: ["Sustainability", "Pollution", "Destruction", "None"], answer: "Sustainability" },
+      { question: "Energy lost at each level is mainly as:", options: ["Heat", "Water", "Light", "Food"], answer: "Heat" },
+      { question: "Energy flow explains:", options: ["Ecosystem dynamics", "Weather", "Climate", "Soil formation"], answer: "Ecosystem dynamics" },
+      { question: "Energy transfer stops when:", options: ["No organisms", "Water ends", "Air stops", "Soil dries"], answer: "No organisms" }
+    ]
   },
+
   {
     id: 8,
     title: "Biogeochemical Cycles",
@@ -1434,8 +1514,72 @@ export const chapters = [
       "Water Cycle": "",
       "Phosphorus Cycle": "",
     },
-    questions: [],
+    questions: [
+
+      { question: "Biogeochemical cycles involve:", options: ["Movement of elements", "Energy flow", "Pollution", "None"], answer: "Movement of elements" },
+      { question: "Carbon cycle includes:", options: ["CO2 exchange", "Water flow", "Heat flow", "None"], answer: "CO2 exchange" },
+      { question: "Plants absorb carbon as:", options: ["CO2", "O2", "N2", "H2"], answer: "CO2" },
+      { question: "Carbon is released by:", options: ["Respiration", "Photosynthesis", "Absorption", "None"], answer: "Respiration" },
+      { question: "Nitrogen cycle involves:", options: ["Nitrogen movement", "Water movement", "Heat flow", "None"], answer: "Nitrogen movement" },
+
+      { question: "Nitrogen fixation converts:", options: ["N2 to ammonia", "O2 to CO2", "CO2 to O2", "None"], answer: "N2 to ammonia" },
+      { question: "Nitrogen fixing bacteria are:", options: ["Rhizobium", "E.coli", "Lactobacillus", "None"], answer: "Rhizobium" },
+      { question: "Nitrification converts ammonia to:", options: ["Nitrates", "Oxygen", "Hydrogen", "None"], answer: "Nitrates" },
+      { question: "Denitrification converts:", options: ["Nitrates to nitrogen gas", "CO2 to O2", "O2 to CO2", "None"], answer: "Nitrates to nitrogen gas" },
+      { question: "Phosphorus cycle does not involve:", options: ["Atmosphere", "Soil", "Water", "Rocks"], answer: "Atmosphere" },
+
+      { question: "Phosphorus is essential for:", options: ["DNA", "Air", "Water only", "None"], answer: "DNA" },
+      { question: "Water cycle includes:", options: ["Evaporation", "Pollution", "Destruction", "None"], answer: "Evaporation" },
+      { question: "Evaporation converts water into:", options: ["Vapor", "Ice", "Liquid", "None"], answer: "Vapor" },
+      { question: "Condensation forms:", options: ["Clouds", "Rocks", "Soil", "None"], answer: "Clouds" },
+      { question: "Precipitation includes:", options: ["Rain", "Heat", "Light", "None"], answer: "Rain" },
+
+      { question: "Carbon cycle helps in:", options: ["Climate regulation", "Pollution", "Destruction", "None"], answer: "Climate regulation" },
+      { question: "Nitrogen is important for:", options: ["Proteins", "Water", "Air only", "None"], answer: "Proteins" },
+      { question: "Phosphorus is found in:", options: ["Rocks", "Air", "Water vapor", "None"], answer: "Rocks" },
+      { question: "Water cycle maintains:", options: ["Water balance", "Pollution", "Destruction", "None"], answer: "Water balance" },
+      { question: "Photosynthesis uses:", options: ["CO2", "O2", "N2", "None"], answer: "CO2" },
+
+      { question: "Respiration releases:", options: ["CO2", "O2", "N2", "None"], answer: "CO2" },
+      { question: "Decomposers release:", options: ["Nutrients", "Heat only", "Water only", "None"], answer: "Nutrients" },
+      { question: "Nitrogen cycle maintains:", options: ["Soil fertility", "Pollution", "Destruction", "None"], answer: "Soil fertility" },
+      { question: "Phosphorus cycle is slow because:", options: ["No gaseous phase", "Too much air", "Fast movement", "None"], answer: "No gaseous phase" },
+      { question: "Water cycle is driven by:", options: ["Sun", "Soil", "Air only", "None"], answer: "Sun" },
+
+      { question: "Carbon is stored in:", options: ["Fossil fuels", "Air only", "Water only", "None"], answer: "Fossil fuels" },
+      { question: "Nitrogen cycle includes:", options: ["Fixation", "Evaporation", "Condensation", "None"], answer: "Fixation" },
+      { question: "Phosphorus is important for:", options: ["ATP", "Air", "Water only", "None"], answer: "ATP" },
+      { question: "Water cycle includes:", options: ["Condensation", "Fixation", "Nitrification", "None"], answer: "Condensation" },
+      { question: "Biogeochemical cycles are essential for:", options: ["Life", "Machines", "Buildings", "None"], answer: "Life" },
+
+      { question: "Carbon cycle includes:", options: ["Combustion", "Evaporation", "Condensation", "None"], answer: "Combustion" },
+      { question: "Nitrogen cycle includes:", options: ["Denitrification", "Evaporation", "Condensation", "None"], answer: "Denitrification" },
+      { question: "Water cycle includes:", options: ["Precipitation", "Fixation", "Nitrification", "None"], answer: "Precipitation" },
+      { question: "Phosphorus cycle occurs mainly in:", options: ["Land", "Air", "Clouds", "None"], answer: "Land" },
+      { question: "Biogeochemical cycles recycle:", options: ["Nutrients", "Energy", "Heat", "None"], answer: "Nutrients" },
+
+      { question: "Carbon cycle balances:", options: ["CO2 levels", "Water levels", "Air pressure", "None"], answer: "CO2 levels" },
+      { question: "Nitrogen is fixed by:", options: ["Bacteria", "Plants only", "Animals", "None"], answer: "Bacteria" },
+      { question: "Water cycle includes:", options: ["Transpiration", "Fixation", "Denitrification", "None"], answer: "Transpiration" },
+      { question: "Phosphorus cycle supports:", options: ["Plant growth", "Pollution", "Destruction", "None"], answer: "Plant growth" },
+      { question: "Biogeochemical cycles maintain:", options: ["Ecosystem balance", "Pollution", "None", "Destruction"], answer: "Ecosystem balance" },
+
+      { question: "Carbon cycle is affected by:", options: ["Burning fuels", "Water only", "Air only", "None"], answer: "Burning fuels" },
+      { question: "Nitrogen cycle is essential for:", options: ["Agriculture", "Machines", "Buildings", "None"], answer: "Agriculture" },
+      { question: "Water cycle regulates:", options: ["Climate", "Pollution", "Destruction", "None"], answer: "Climate" },
+      { question: "Phosphorus cycle involves:", options: ["Weathering", "Evaporation", "Condensation", "None"], answer: "Weathering" },
+      { question: "Biogeochemical cycles are continuous:", options: ["Yes", "No", "Sometimes", "None"], answer: "Yes" },
+
+      { question: "Carbon cycle includes:", options: ["Photosynthesis", "Fixation", "Condensation", "None"], answer: "Photosynthesis" },
+      { question: "Nitrogen cycle converts nitrogen into:", options: ["Usable form", "Gas only", "Water", "None"], answer: "Usable form" },
+      { question: "Water cycle is essential for:", options: ["Life", "Machines", "Buildings", "None"], answer: "Life" },
+      { question: "Phosphorus cycle helps in:", options: ["Energy transfer", "Pollution", "Destruction", "None"], answer: "Energy transfer" },
+      { question: "Biogeochemical cycles ensure:", options: ["Sustainability", "Pollution", "Destruction", "None"], answer: "Sustainability" }
+
+    ]
+
   },
+
   {
     id: 9,
     title: "Ecological Succession",
@@ -1446,276 +1590,281 @@ export const chapters = [
       "Climax Community",
     ],
     content: {
-      "Primary Succession": "",
-      "Secondary Succession": "",
-      "Pioneer Species": "",
-      "Climax Community": "",
+      content: {
+        "Primary Succession": "Primary succession is the process of ecosystem development in areas where no life existed before. It begins on bare surfaces like rocks, lava, or areas left after glaciers melt. There is no soil initially, so organisms like lichens and mosses grow first. These organisms help in soil formation by breaking rocks and adding organic matter. Over time, small plants, shrubs, and trees begin to grow. This process is very slow and may take hundreds or thousands of years to form a stable ecosystem.",
+
+        "Secondary Succession": "Secondary succession occurs in areas where an ecosystem previously existed but was disturbed or destroyed by events like fire, floods, or human activities. Since soil is already present, the process is faster than primary succession. Grass and small plants grow first, followed by shrubs and trees. Animals also return gradually. Over time, the ecosystem is restored to a stable condition similar to its original state.",
+
+        "Pioneer Species": "Pioneer species are the first organisms to colonize a barren or disturbed area during succession. They are usually small, hardy organisms like lichens, mosses, and some grasses. These species can survive in harsh conditions and help in soil formation. They modify the environment, making it suitable for other species to grow. Pioneer species play a very important role in starting the process of ecological succession.",
+
+        "Climax Community": "Climax community is the final and stable stage of ecological succession. In this stage, the ecosystem becomes balanced and supports a wide variety of plants and animals. The species composition remains relatively constant over time. Trees are usually dominant in this stage in forest ecosystems. The climax community is well adapted to the environment and remains stable unless disturbed."
+      },
+      questions: [
+        {
+          question: "Ecological succession is:",
+          options: [
+            "Sudden change",
+            "Gradual change in species",
+            "Energy flow",
+            "Food chain",
+          ],
+          answer: "Gradual change in species",
+        },
+        {
+          question: "Primary succession occurs on:",
+          options: [
+            "Previously inhabited land",
+            "Bare land",
+            "Forest",
+            "Grassland",
+          ],
+          answer: "Bare land",
+        },
+        {
+          question: "Secondary succession occurs on:",
+          options: [
+            "New land",
+            "Bare rock",
+            "Previously inhabited land",
+            "Ocean",
+          ],
+          answer: "Previously inhabited land",
+        },
+        {
+          question: "Pioneer species are:",
+          options: ["Last species", "First species", "Consumers", "Decomposers"],
+          answer: "First species",
+        },
+        {
+          question: "Climax community is:",
+          options: [
+            "Initial stage",
+            "Final stable stage",
+            "Middle stage",
+            "Disturbed stage",
+          ],
+          answer: "Final stable stage",
+        },
+
+        {
+          question: "Lichens are pioneer in:",
+          options: ["Forest", "Rock", "Desert", "Water"],
+          answer: "Rock",
+        },
+        {
+          question: "Mosses grow after:",
+          options: ["Trees", "Lichens", "Grass", "Shrubs"],
+          answer: "Lichens",
+        },
+        {
+          question: "Primary succession is:",
+          options: ["Fast", "Slow", "Instant", "None"],
+          answer: "Slow",
+        },
+        {
+          question: "Secondary succession is:",
+          options: ["Slow", "Fast", "None", "Static"],
+          answer: "Fast",
+        },
+        {
+          question: "Hydrarch succession starts in:",
+          options: ["Water", "Desert", "Forest", "Grassland"],
+          answer: "Water",
+        },
+
+        {
+          question: "Xerarch succession starts in:",
+          options: ["Water", "Dry land", "Forest", "Ocean"],
+          answer: "Dry land",
+        },
+        {
+          question: "Succession leads to:",
+          options: ["Instability", "Stability", "Destruction", "None"],
+          answer: "Stability",
+        },
+        {
+          question: "Intermediate stages are called:",
+          options: ["Pioneer", "Seral stages", "Climax", "None"],
+          answer: "Seral stages",
+        },
+        {
+          question: "Climax community is:",
+          options: ["Unstable", "Stable", "Temporary", "Destroyed"],
+          answer: "Stable",
+        },
+        {
+          question: "Which is pioneer plant?",
+          options: ["Tree", "Grass", "Lichen", "Shrub"],
+          answer: "Lichen",
+        },
+
+        {
+          question: "Which follows lichens?",
+          options: ["Trees", "Grass", "Moss", "Shrubs"],
+          answer: "Moss",
+        },
+        {
+          question: "Which comes after moss?",
+          options: ["Lichen", "Shrubs", "Grass", "Trees"],
+          answer: "Grass",
+        },
+        {
+          question: "Final stage has:",
+          options: ["Few species", "Many species", "No species", "One species"],
+          answer: "Many species",
+        },
+        {
+          question: "Succession increases:",
+          options: ["Diversity", "Pollution", "Destruction", "None"],
+          answer: "Diversity",
+        },
+        {
+          question: "Bare rock is example of:",
+          options: [
+            "Secondary succession",
+            "Primary succession",
+            "Climax",
+            "None",
+          ],
+          answer: "Primary succession",
+        },
+
+        {
+          question: "Forest fire leads to:",
+          options: [
+            "Primary succession",
+            "Secondary succession",
+            "No change",
+            "None",
+          ],
+          answer: "Secondary succession",
+        },
+        {
+          question: "Soil formation begins in:",
+          options: ["Climax stage", "Pioneer stage", "Middle stage", "None"],
+          answer: "Pioneer stage",
+        },
+        {
+          question: "Humus is formed by:",
+          options: ["Plants", "Animals", "Decomposition", "Water"],
+          answer: "Decomposition",
+        },
+        {
+          question: "Succession ends with:",
+          options: ["Pioneer", "Seral", "Climax", "None"],
+          answer: "Climax",
+        },
+        {
+          question: "Climax is maintained by:",
+          options: ["Balance", "Imbalance", "Pollution", "None"],
+          answer: "Balance",
+        },
+
+        {
+          question: "Hydrarch succession ends in:",
+          options: ["Desert", "Forest", "Water", "Grassland"],
+          answer: "Forest",
+        },
+        {
+          question: "Xerarch succession ends in:",
+          options: ["Forest", "Water", "Desert", "None"],
+          answer: "Forest",
+        },
+        {
+          question: "Pioneer species prepare land for:",
+          options: ["Animals", "Next species", "Water", "Air"],
+          answer: "Next species",
+        },
+        {
+          question: "Succession is directional:",
+          options: ["Yes", "No", "Random", "None"],
+          answer: "Yes",
+        },
+        {
+          question: "Which increases during succession?",
+          options: ["Complexity", "Pollution", "Destruction", "None"],
+          answer: "Complexity",
+        },
+
+        {
+          question: "Which decreases during succession?",
+          options: ["Stability", "Simplicity", "Diversity", "None"],
+          answer: "Simplicity",
+        },
+        {
+          question: "Which is stable ecosystem?",
+          options: ["Pioneer", "Seral", "Climax", "None"],
+          answer: "Climax",
+        },
+        {
+          question: "Disturbance causes:",
+          options: ["Succession", "Destruction", "Growth", "None"],
+          answer: "Succession",
+        },
+        {
+          question: "Secondary succession is faster due to:",
+          options: ["Soil presence", "Water", "Air", "Heat"],
+          answer: "Soil presence",
+        },
+        {
+          question: "Primary succession lacks:",
+          options: ["Soil", "Water", "Air", "Sunlight"],
+          answer: "Soil",
+        },
+
+        {
+          question: "Which organism starts succession?",
+          options: ["Tree", "Lichen", "Animal", "Fish"],
+          answer: "Lichen",
+        },
+        {
+          question: "Which stage has maximum biomass?",
+          options: ["Pioneer", "Seral", "Climax", "None"],
+          answer: "Climax",
+        },
+        {
+          question: "Which stage is most diverse?",
+          options: ["Pioneer", "Seral", "Climax", "None"],
+          answer: "Climax",
+        },
+        {
+          question: "Succession restores:",
+          options: ["Balance", "Pollution", "Destruction", "None"],
+          answer: "Balance",
+        },
+        {
+          question: "Which type occurs after flood?",
+          options: ["Primary", "Secondary", "None", "Static"],
+          answer: "Secondary",
+        },
+
+        {
+          question: "Which is first step in succession?",
+          options: ["Climax", "Pioneer", "Seral", "None"],
+          answer: "Pioneer",
+        },
+        {
+          question: "Which is last step?",
+          options: ["Pioneer", "Seral", "Climax", "None"],
+          answer: "Climax",
+        },
+        {
+          question: "Succession helps in:",
+          options: ["Ecosystem development", "Pollution", "Destruction", "None"],
+          answer: "Ecosystem development",
+        },
+        {
+          question: "Which factor drives succession?",
+          options: ["Climate", "Soil", "Organisms", "All"],
+          answer: "All",
+        },
+        {
+          question: "Succession leads to:",
+          options: ["Order", "Chaos", "Pollution", "None"],
+          answer: "Order",
+        },
+      ],
     },
-    questions: [
-      {
-        question: "Ecological succession is:",
-        options: [
-          "Sudden change",
-          "Gradual change in species",
-          "Energy flow",
-          "Food chain",
-        ],
-        answer: "Gradual change in species",
-      },
-      {
-        question: "Primary succession occurs on:",
-        options: [
-          "Previously inhabited land",
-          "Bare land",
-          "Forest",
-          "Grassland",
-        ],
-        answer: "Bare land",
-      },
-      {
-        question: "Secondary succession occurs on:",
-        options: [
-          "New land",
-          "Bare rock",
-          "Previously inhabited land",
-          "Ocean",
-        ],
-        answer: "Previously inhabited land",
-      },
-      {
-        question: "Pioneer species are:",
-        options: ["Last species", "First species", "Consumers", "Decomposers"],
-        answer: "First species",
-      },
-      {
-        question: "Climax community is:",
-        options: [
-          "Initial stage",
-          "Final stable stage",
-          "Middle stage",
-          "Disturbed stage",
-        ],
-        answer: "Final stable stage",
-      },
-
-      {
-        question: "Lichens are pioneer in:",
-        options: ["Forest", "Rock", "Desert", "Water"],
-        answer: "Rock",
-      },
-      {
-        question: "Mosses grow after:",
-        options: ["Trees", "Lichens", "Grass", "Shrubs"],
-        answer: "Lichens",
-      },
-      {
-        question: "Primary succession is:",
-        options: ["Fast", "Slow", "Instant", "None"],
-        answer: "Slow",
-      },
-      {
-        question: "Secondary succession is:",
-        options: ["Slow", "Fast", "None", "Static"],
-        answer: "Fast",
-      },
-      {
-        question: "Hydrarch succession starts in:",
-        options: ["Water", "Desert", "Forest", "Grassland"],
-        answer: "Water",
-      },
-
-      {
-        question: "Xerarch succession starts in:",
-        options: ["Water", "Dry land", "Forest", "Ocean"],
-        answer: "Dry land",
-      },
-      {
-        question: "Succession leads to:",
-        options: ["Instability", "Stability", "Destruction", "None"],
-        answer: "Stability",
-      },
-      {
-        question: "Intermediate stages are called:",
-        options: ["Pioneer", "Seral stages", "Climax", "None"],
-        answer: "Seral stages",
-      },
-      {
-        question: "Climax community is:",
-        options: ["Unstable", "Stable", "Temporary", "Destroyed"],
-        answer: "Stable",
-      },
-      {
-        question: "Which is pioneer plant?",
-        options: ["Tree", "Grass", "Lichen", "Shrub"],
-        answer: "Lichen",
-      },
-
-      {
-        question: "Which follows lichens?",
-        options: ["Trees", "Grass", "Moss", "Shrubs"],
-        answer: "Moss",
-      },
-      {
-        question: "Which comes after moss?",
-        options: ["Lichen", "Shrubs", "Grass", "Trees"],
-        answer: "Grass",
-      },
-      {
-        question: "Final stage has:",
-        options: ["Few species", "Many species", "No species", "One species"],
-        answer: "Many species",
-      },
-      {
-        question: "Succession increases:",
-        options: ["Diversity", "Pollution", "Destruction", "None"],
-        answer: "Diversity",
-      },
-      {
-        question: "Bare rock is example of:",
-        options: [
-          "Secondary succession",
-          "Primary succession",
-          "Climax",
-          "None",
-        ],
-        answer: "Primary succession",
-      },
-
-      {
-        question: "Forest fire leads to:",
-        options: [
-          "Primary succession",
-          "Secondary succession",
-          "No change",
-          "None",
-        ],
-        answer: "Secondary succession",
-      },
-      {
-        question: "Soil formation begins in:",
-        options: ["Climax stage", "Pioneer stage", "Middle stage", "None"],
-        answer: "Pioneer stage",
-      },
-      {
-        question: "Humus is formed by:",
-        options: ["Plants", "Animals", "Decomposition", "Water"],
-        answer: "Decomposition",
-      },
-      {
-        question: "Succession ends with:",
-        options: ["Pioneer", "Seral", "Climax", "None"],
-        answer: "Climax",
-      },
-      {
-        question: "Climax is maintained by:",
-        options: ["Balance", "Imbalance", "Pollution", "None"],
-        answer: "Balance",
-      },
-
-      {
-        question: "Hydrarch succession ends in:",
-        options: ["Desert", "Forest", "Water", "Grassland"],
-        answer: "Forest",
-      },
-      {
-        question: "Xerarch succession ends in:",
-        options: ["Forest", "Water", "Desert", "None"],
-        answer: "Forest",
-      },
-      {
-        question: "Pioneer species prepare land for:",
-        options: ["Animals", "Next species", "Water", "Air"],
-        answer: "Next species",
-      },
-      {
-        question: "Succession is directional:",
-        options: ["Yes", "No", "Random", "None"],
-        answer: "Yes",
-      },
-      {
-        question: "Which increases during succession?",
-        options: ["Complexity", "Pollution", "Destruction", "None"],
-        answer: "Complexity",
-      },
-
-      {
-        question: "Which decreases during succession?",
-        options: ["Stability", "Simplicity", "Diversity", "None"],
-        answer: "Simplicity",
-      },
-      {
-        question: "Which is stable ecosystem?",
-        options: ["Pioneer", "Seral", "Climax", "None"],
-        answer: "Climax",
-      },
-      {
-        question: "Disturbance causes:",
-        options: ["Succession", "Destruction", "Growth", "None"],
-        answer: "Succession",
-      },
-      {
-        question: "Secondary succession is faster due to:",
-        options: ["Soil presence", "Water", "Air", "Heat"],
-        answer: "Soil presence",
-      },
-      {
-        question: "Primary succession lacks:",
-        options: ["Soil", "Water", "Air", "Sunlight"],
-        answer: "Soil",
-      },
-
-      {
-        question: "Which organism starts succession?",
-        options: ["Tree", "Lichen", "Animal", "Fish"],
-        answer: "Lichen",
-      },
-      {
-        question: "Which stage has maximum biomass?",
-        options: ["Pioneer", "Seral", "Climax", "None"],
-        answer: "Climax",
-      },
-      {
-        question: "Which stage is most diverse?",
-        options: ["Pioneer", "Seral", "Climax", "None"],
-        answer: "Climax",
-      },
-      {
-        question: "Succession restores:",
-        options: ["Balance", "Pollution", "Destruction", "None"],
-        answer: "Balance",
-      },
-      {
-        question: "Which type occurs after flood?",
-        options: ["Primary", "Secondary", "None", "Static"],
-        answer: "Secondary",
-      },
-
-      {
-        question: "Which is first step in succession?",
-        options: ["Climax", "Pioneer", "Seral", "None"],
-        answer: "Pioneer",
-      },
-      {
-        question: "Which is last step?",
-        options: ["Pioneer", "Seral", "Climax", "None"],
-        answer: "Climax",
-      },
-      {
-        question: "Succession helps in:",
-        options: ["Ecosystem development", "Pollution", "Destruction", "None"],
-        answer: "Ecosystem development",
-      },
-      {
-        question: "Which factor drives succession?",
-        options: ["Climate", "Soil", "Organisms", "All"],
-        answer: "All",
-      },
-      {
-        question: "Succession leads to:",
-        options: ["Order", "Chaos", "Pollution", "None"],
-        answer: "Order",
-      },
-    ],
   },
   {
     id: 10,
@@ -1727,12 +1876,134 @@ export const chapters = [
       "Edge Species",
     ],
     content: {
-      "Concept of Ecotone": "",
-      "Characteristics": "",
-      "Edge Effect": "",
-      "Edge Species": "",
+      "Concept of Ecotone": "An ecotone is a transition zone between two different ecosystems or communities. It is the area where two habitats meet and interact, such as forest and grassland or river and land. Ecotones contain species from both ecosystems along with some unique species. They are important for biodiversity and ecological balance.",
+
+      "Characteristics": "Ecotones show high biodiversity because they include species from adjacent ecosystems. They are areas of active interaction and competition. Environmental conditions change rapidly in ecotones. They may be narrow or wide depending on the ecosystems. They are often more productive than individual ecosystems.",
+
+      "Edge Effect": "Edge effect refers to the increased diversity and density of species found at the boundary of two ecosystems. Due to the mixing of habitats, more organisms can survive. It leads to greater availability of food and shelter. Edge effect makes ecotones biologically rich areas.",
+
+      "Edge Species": "Edge species are organisms that are specially adapted to live in ecotones. They may belong to either of the ecosystems or be unique to the boundary area. These species take advantage of resources from both sides. Examples include deer, rabbits, and many birds that thrive in mixed habitats."
     },
-    questions: [],
+    questions: [
+      {
+        question: "What is an ecotone?",
+        options: [
+          "A type of ecosystem",
+          "A transition zone between two ecosystems",
+          "A species",
+          "A food chain",
+        ],
+        answer: "A transition zone between two ecosystems",
+      },
+      {
+        question: "Where are ecotones found?",
+        options: [
+          "Only in forests",
+          "Between two different ecosystems",
+          "In deserts only",
+          "In water only",
+        ],
+        answer: "Between two different ecosystems",
+      },
+      {
+        question: "Do ecotones have high or low biodiversity?",
+        options: ["Low", "High", "Medium", "None"],
+        answer: "High",
+      },
+      {
+        question: "What is edge effect?",
+        options: [
+          "Decreased diversity",
+          "Increased diversity at boundaries",
+          "No effect",
+          "Only plant effect",
+        ],
+        answer: "Increased diversity at boundaries",
+      },
+      {
+        question: "Which species live in ecotones?",
+        options: ["Edge species", "Only forest species", "Only grassland species", "None"],
+        answer: "Edge species",
+      },
+
+      {
+        question: "Ecotones are areas of:",
+        options: ["Stagnation", "Interaction", "Destruction", "None"],
+        answer: "Interaction",
+      },
+      {
+        question: "Environmental conditions in ecotones are:",
+        options: ["Stable", "Changing rapidly", "Same everywhere", "None"],
+        answer: "Changing rapidly",
+      },
+      {
+        question: "Edge effect leads to:",
+        options: ["Less food", "More shelter", "More species", "None"],
+        answer: "More species",
+      },
+      {
+        question: "Edge species are adapted to:",
+        options: ["One ecosystem", "Both ecosystems", "No ecosystem", "None"],
+        answer: "Both ecosystems",
+      },
+      {
+        question: "Ecotones are important for:",
+        options: ["Pollution", "Biodiversity", "Destruction", "None"],
+        answer: "Biodiversity",
+      },
+
+      {
+        question: "Ecotones can be:",
+        options: ["Narrow or wide", "Only narrow", "Only wide", "None"],
+        answer: "Narrow or wide",
+      },
+      {
+        question: "Ecotones are often:",
+        options: ["Less productive", "More productive", "Not productive", "None"],
+        answer: "More productive",
+      },
+      {
+        question: "Edge species take advantage of:",
+        options: ["One resource", "Both resources", "No resource", "None"],
+        answer: "Both resources",
+      },
+      {
+        question: "Ecotones show:",
+        options: ["Low competition", "High competition", "No competition", "None"],
+        answer: "High competition",
+      },
+      {
+        question: "Ecotones help maintain:",
+        options: ["Pollution", "Ecological balance", "Destruction", "None"],
+        answer: "Ecological balance",
+      },
+
+      {
+        question: "Ecotones contain species from:",
+        options: ["One ecosystem", "Both ecosystems", "No ecosystem", "None"],
+        answer: "Both ecosystems",
+      },
+      {
+        question: "Edge effect is due to:",
+        options: ["Isolation", "Mixing of habitats", "Destruction", "None"],
+        answer: "Mixing of habitats",
+      },
+      {
+        question: "Edge species may include:",
+        options: ["Only plants", "Only animals", "Both", "None"],
+        answer: "Both",
+      },
+      {
+        question: "Ecotones are areas of:",
+        options: ["Uniformity", "Diversity", "Pollution", "None"],
+        answer: "Diversity",
+      },
+      {
+        question: "Ecotones are important for:",
+        options: ["Survival", "Evolution", "Extinction", "None"],
+        answer: "Survival",
+      }
+    ],
   },
   {
     id: 11,
@@ -1744,10 +2015,13 @@ export const chapters = [
       "Logistic Curve",
     ],
     content: {
-      "Definition": "",
-      "Limiting Factors": "",
-      "Population Growth": "",
-      "Logistic Curve": "",
+      "Definition": "Carrying capacity is the maximum population size of a species that an environment can sustain indefinitely, given the available resources and services. It represents the limit of population growth in a particular area. When a population reaches carrying capacity, resources become scarce, and growth slows down or stops.",
+
+      "Limiting Factors": "Limiting factors are environmental conditions that restrict population growth. They include availability of food, water, space, shelter, and accumulation of waste. Predators, diseases, and climate also act as limiting factors. These factors determine how many individuals an area can support.",
+
+      "Population Growth": "Population growth occurs when birth rate exceeds death rate. Initially, growth is slow, then it accelerates, and finally it slows down as it approaches carrying capacity. This pattern is called logistic growth. Overpopulation beyond carrying capacity leads to resource depletion and population decline.",
+
+      "Logistic Curve": "Logistic curve is a graphical representation of population growth that slows down as it approaches carrying capacity. It shows an S-shaped curve where the population grows exponentially at first, then growth rate decreases, and finally the population stabilizes at carrying capacity. This curve is a fundamental concept in ecology."
     },
     questions: [
       {
@@ -2015,12 +2289,185 @@ export const chapters = [
       "Biodiversity Measurement",
     ],
     content: {
-      "Genetic Diversity": "",
-      "Species Diversity": "",
-      "Ecosystem Diversity": "",
-      "Biodiversity Measurement": "",
+      "Genetic Diversity": "Genetic diversity refers to the variety of genes within a species. It is the basis of biodiversity and allows species to adapt to changing environments. Different populations of the same species show genetic variations. High genetic diversity increases the chances of survival. Examples include different varieties of rice, wheat, and humans.",
+
+      "Species Diversity": "Species diversity is the variety of different species in an area. It is measured by species richness (number of species) and species evenness (relative abundance). High species diversity indicates a healthy ecosystem. Examples include forests, grasslands, and coral reefs with many species.",
+
+      "Ecosystem Diversity": "Ecosystem diversity is the variety of ecosystems in a region. It includes different types of habitats like forests, wetlands, deserts, and oceans. Each ecosystem has unique species and interactions. Ecosystem diversity provides essential ecological services. Examples include tropical rainforests, mangroves, and alpine meadows.",
+
+      "Biodiversity Measurement": "Biodiversity is measured using indices like Shannon index and Simpson index. These indices consider both species richness and evenness. Biodiversity can also be estimated through species counts and surveys. Proper measurement helps in conservation planning and monitoring."
     },
-    questions: [],
+    questions: [
+      {
+        question: "What is genetic diversity?",
+        options: [
+          "Variety of genes",
+          "Variety of species",
+          "Variety of ecosystems",
+          "None",
+        ],
+        answer: "Variety of genes",
+      },
+      {
+        question: "What is species diversity?",
+        options: [
+          "Variety of genes",
+          "Variety of species",
+          "Variety of ecosystems",
+          "None",
+        ],
+        answer: "Variety of species",
+      },
+      {
+        question: "What is ecosystem diversity?",
+        options: [
+          "Variety of genes",
+          "Variety of species",
+          "Variety of ecosystems",
+          "None",
+        ],
+        answer: "Variety of ecosystems",
+      },
+      {
+        question: "What is biodiversity measurement?",
+        options: [
+          "Measuring genetic diversity",
+          "Measuring species diversity",
+          "Measuring ecosystem diversity",
+          "None",
+        ],
+        answer: "Measuring genetic diversity",
+      },
+      {
+        question: "Hotspots have high:",
+        options: ["Rainfall", "Biodiversity", "Temperature", "None"],
+        answer: "Biodiversity",
+      },
+      {
+        question: "Hotspots are under threat due to:",
+        options: ["Deforestation", "Pollution", "Urbanization", "All"],
+        answer: "All",
+      },
+      {
+        question: "Which is biodiversity-rich area?",
+        options: ["Hotspot", "Desert", "Ocean", "None"],
+        answer: "Hotspot",
+      },
+      {
+        question: "Hotspots are important for:",
+        options: ["Research", "Conservation", "Education", "All"],
+        answer: "All",
+      },
+      {
+        question: "Hotspots include:",
+        options: ["Plants", "Animals", "Microorganisms", "All"],
+        answer: "All",
+      },
+
+      {
+        question: "Hotspots are limited in:",
+        options: ["Area", "Species", "Climate", "None"],
+        answer: "Area",
+      },
+      {
+        question: "Which factor defines hotspot?",
+        options: ["Endemism", "Threat", "Both", "None"],
+        answer: "Both",
+      },
+      {
+        question: "Hotspots are sensitive to:",
+        options: ["Climate change", "Pollution", "Human activity", "All"],
+        answer: "All",
+      },
+      {
+        question: "Hotspots protect:",
+        options: ["Rare species", "Common species", "Only plants", "None"],
+        answer: "Rare species",
+      },
+      {
+        question: "Which is conservation priority?",
+        options: ["Hotspots", "Deserts", "Oceans", "None"],
+        answer: "Hotspots",
+      },
+
+      {
+        question: "Hotspots have high:",
+        options: ["Extinction risk", "Stability", "Growth", "None"],
+        answer: "Extinction risk",
+      },
+      {
+        question: "Which is hotspot feature?",
+        options: ["Low diversity", "High endemism", "No species", "None"],
+        answer: "High endemism",
+      },
+      {
+        question: "Hotspots need:",
+        options: ["Protection", "Destruction", "Pollution", "None"],
+        answer: "Protection",
+      },
+      {
+        question: "Hotspots are found in:",
+        options: ["All continents", "Only India", "Only Asia", "None"],
+        answer: "All continents",
+      },
+      {
+        question: "Hotspots are important for:",
+        options: ["Research", "Conservation", "Education", "All"],
+        answer: "All",
+      },
+      {
+        question: "Hotspots include:",
+        options: ["Plants", "Animals", "Microorganisms", "All"],
+        answer: "All",
+      },
+
+      {
+        question: "Hotspots are limited in:",
+        options: ["Area", "Species", "Climate", "None"],
+        answer: "Area",
+      },
+      {
+        question: "Which factor defines hotspot?",
+        options: ["Endemism", "Threat", "Both", "None"],
+        answer: "Both",
+      },
+      {
+        question: "Hotspots are sensitive to:",
+        options: ["Climate change", "Pollution", "Human activity", "All"],
+        answer: "All",
+      },
+      {
+        question: "Hotspots protect:",
+        options: ["Rare species", "Common species", "Only plants", "None"],
+        answer: "Rare species",
+      },
+      {
+        question: "Which is conservation priority?",
+        options: ["Hotspots", "Deserts", "Oceans", "None"],
+        answer: "Hotspots",
+      },
+
+      {
+        question: "Hotspots have high:",
+        options: ["Extinction risk", "Stability", "Growth", "None"],
+        answer: "Extinction risk",
+      },
+      {
+        question: "Which is hotspot feature?",
+        options: ["Low diversity", "High endemism", "No species", "None"],
+        answer: "High endemism",
+      },
+      {
+        question: "Hotspots need:",
+        options: ["Protection", "Destruction", "Pollution", "None"],
+        answer: "Protection",
+      },
+      {
+        question: "Hotspots are found in:",
+        options: ["All continents", "Only India", "Only Asia", "None"],
+        answer: "All continents",
+      },
+    ],
   },
   {
     id: 13,
@@ -2303,10 +2750,13 @@ export const chapters = [
       "Threats to Endemics",
     ],
     content: {
-      "Definition of Endemism": "",
-      "Local Adaptation": "",
-      "Indian Endemics": "",
-      "Threats to Endemics": "",
+      "Definition of Endemism": "Endemic species are species that are found only in a specific geographic region and nowhere else in the world. They evolve in isolation and are adapted to local conditions. Endemism is a measure of biodiversity uniqueness. Examples include Darwin's finches in Galapagos and lemurs in Madagascar.",
+
+      "Local Adaptation": "Local adaptation refers to the process by which species evolve traits that help them survive in their specific environment. Endemic species show high levels of local adaptation. These adaptations can be morphological, physiological, or behavioral. Local adaptation increases species' fitness in its native habitat.",
+
+      "Indian Endemics": "India has many endemic species due to its diverse ecosystems. Examples include Nilgiri tahr, lion-tailed macaque, and Asiatic lion. Many endemic plants are found in Western Ghats and Himalayas. Endemic species are often vulnerable to extinction due to habitat loss.",
+
+      "Threats to Endemics": "Endemic species face threats from habitat destruction, climate change, pollution, and invasive species. Since they are restricted to small areas, they are highly vulnerable. Conservation efforts focus on protecting their habitats and preventing human disturbances. Loss of endemic species reduces overall biodiversity."
     },
     questions: [
       {
@@ -2589,10 +3039,10 @@ export const chapters = [
       "Impact of Removal",
     ],
     content: {
-      "Ecological Role": "",
-      "Trophic Influence": "",
-      "Examples of Keystone Species": "",
-      "Impact of Removal": "",
+      "Ecological Role": "Keystone species play critical roles in maintaining ecosystem structure and function. They influence community composition and nutrient cycling. Their presence supports biodiversity and ecosystem stability. Examples include sea otters, wolves, and elephants.",
+      "Trophic Influence": "Keystone species exert strong top-down control on lower trophic levels. Predators like wolves regulate herbivore populations, preventing overgrazing. Ecosystem engineers like beavers create habitats that support diverse species. Their influence extends throughout the food web.",
+      "Examples of Keystone Species": "Sea otters control sea urchin populations, protecting kelp forests. Wolves regulate deer populations, maintaining forest health. Elephants maintain grasslands by preventing tree encroachment. Bees pollinate plants, supporting plant reproduction.",
+      "Impact of Removal": "Removal of keystone species causes dramatic ecosystem changes. Loss of sea otters leads to sea urchin outbreaks and kelp forest destruction. Wolf removal results in overgrazing and habitat degradation. Their absence disrupts food webs and reduces biodiversity."
     },
     questions: [
       {
@@ -2870,10 +3320,10 @@ export const chapters = [
       "Funding Support",
     ],
     content: {
-      "Conservation Symbols": "",
-      "Public Awareness": "",
-      "Iconic Examples": "",
-      "Funding Support": "",
+      "Conservation Symbols": "Flagship species are charismatic species that are used to represent a conservation cause. They are often large, visually appealing, and well-known. Examples include tigers, pandas, elephants, and whales. These species evoke emotional responses and attract public attention.",
+      "Public Awareness": "Flagship species help raise public awareness about conservation issues. Their popularity makes it easier to communicate the importance of protecting biodiversity. Campaigns featuring flagship species attract media attention and engage the public in conservation efforts.",
+      "Iconic Examples": "Iconic examples of flagship species include the Bengal tiger in India, the giant panda in China, and the African elephant. Each species represents the unique biodiversity of its region. These species have become symbols of conservation success and challenges.",
+      "Funding Support": "Flagship species help secure funding for conservation projects. Donations and grants often target well-known species, providing financial support for habitat protection and species recovery. The success of flagship species campaigns demonstrates the power of charismatic species in conservation.",
     },
     questions: [
       {
@@ -3146,10 +3596,10 @@ export const chapters = [
       "Associated Species",
     ],
     content: {
-      "Habitat Protection": "",
-      "Large Range Species": "",
-      "Conservation Planning": "",
-      "Associated Species": "",
+      "Habitat Protection": "Umbrella species are species whose conservation indirectly protects many other species within the same habitat. Protecting large-ranging species requires preserving large areas of habitat, which benefits all species in that ecosystem. Examples include tigers, elephants, and mountain gorillas.",
+      "Large Range Species": "Umbrella species typically have large geographic ranges, requiring extensive habitats for survival. Their habitat needs often overlap with those of many other species. Protecting their habitats ensures the conservation of numerous co-occurring species.",
+      "Conservation Planning": "Conservation planning for umbrella species involves identifying and protecting large, intact habitats. This approach is cost-effective as it benefits multiple species simultaneously. Protected areas established for umbrella species serve as refuges for biodiversity.",
+      "Associated Species": "Associated species are the numerous species that benefit from the conservation of umbrella species. These include plants, invertebrates, and other vertebrates that share the same habitat. The success of umbrella species conservation is measured by the protection it provides to associated species.",
     },
     questions: [
       {
@@ -8209,13 +8659,13 @@ export const chapters = [
           "Biomass Energy",
           "Geothermal Energy",
         ],
-    content: {
-      "Solar Energy": "",
-      "Wind Energy": "",
-      "Hydropower": "",
-      "Biomass Energy": "",
-      "Geothermal Energy": "",
-    },
+        content: {
+          "Solar Energy": "",
+          "Wind Energy": "",
+          "Hydropower": "",
+          "Biomass Energy": "",
+          "Geothermal Energy": "",
+        },
         questions: [
           { question: "Environmental ethics deals with:", options: ["Moral relationship with environment", "Pollution", "Destruction", "None"], answer: "Moral relationship with environment" },
           { question: "Environmental ethics promotes:", options: ["Respect for nature", "Exploitation", "Pollution", "None"], answer: "Respect for nature" },
