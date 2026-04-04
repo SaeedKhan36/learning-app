@@ -3,6 +3,8 @@ package com.mcq;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
+
 /**
  * Main application entry point for the MCQ Backend services.
  * 
@@ -11,6 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * are running before going to production.
  */
 @SpringBootApplication
+@EnableJpaAuditing
 public class Application {
 
     public static void main(String[] args) {
