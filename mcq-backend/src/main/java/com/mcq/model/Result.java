@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Result {
+public class Result extends Auditable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -32,12 +32,4 @@ public class Result {
 
     @Column(nullable = false)
     private long timeTaken; // Time taken in seconds
-
-    @Column(nullable = false, updatable = false)
-    private LocalDateTime submittedAt;
-
-    @PrePersist
-    protected void onPersist() {
-        this.submittedAt = LocalDateTime.now();
-    }
 }

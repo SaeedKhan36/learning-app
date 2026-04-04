@@ -1,50 +1,51 @@
 package com.mcq.service;
 
+import com.mcq.aspect.LogExecutionTime;
+import com.mcq.dto.PagedResponseDTO;
 import com.mcq.dto.QuestionDTO;
+import com.mcq.mapper.QuestionMapper;
+import com.mcq.model.Question;
 import com.mcq.model.enums.DifficultyLevel;
+import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.List;
 
 @Service
+@RequiredArgsConstructor
 public class QuestionService {
 
-    /**
-     * Represents a resilient service layer.
-     * In a real deployment, we inject QuestionRepository and add caching mechanism (@Cacheable).
-     * Here we return mocked domain records wrapped in DTOs to hide internal entity graphs.
-     */
-    public List<QuestionDTO> getAllMockQuestions() {
-        return Arrays.asList(
-            QuestionDTO.builder()
-                .id(1L)
-                .title("What is the main design pattern used in Spring DI?")
-                .optionA("Observer Pattern")
-                .optionB("Singleton Pattern / Factory Pattern")
-                .optionC("Builder Pattern")
-                .optionD("Decorator Pattern")
-                .difficultyLevel(DifficultyLevel.INTERMEDIATE)
-                .tags("spring,di,patterns")
-                .categoryId(101L)
-                .categoryName("Spring Framework")
-                .createdAt(LocalDateTime.now())
-                .build(),
+    private final QuestionMapper questionMapper;
 
-            QuestionDTO.builder()
-                .id(2L)
-                .title("Which interface is extended by JpaRepository in Spring Data?")
-                .optionA("PagingAndSortingRepository")
-                .optionB("CrudRepository")
-                .optionC("QueryByExampleExecutor")
-                .optionD("Session")
+    /**
+     * Represents a resilient service layer with Pagination and Mappers decoupling.
+     */
+    @LogExecutionTime
+    public PagedResponseDTO<QuestionDTO> getPaginatedQuestions(int pageNo, int pageSize) {
+        // Mock DB entities
+        Question mockEntity1 = Question.builder()
+                .title("What is AOP in Spring?")
+                .optionA("Aspect Oriented Programming")
+                .optionB("Application Object Pattern")
+                .optionC("Advanced Object Processing")
+                .optionD("Automated Ordering Process")
+                .correctAnswer("A")
                 .difficultyLevel(DifficultyLevel.ADVANCED)
-                .tags("spring-boot,jpa")
-                .categoryId(101L)
-                .categoryName("Spring Framework")
-                .createdAt(LocalDateTime.now().minusDays(1))
-                .build()
-        );
+                .tags("spring,aop,advanced")
+                .build();
+        mockEntity1.setId(1L);
+
+        List<Question> mockList = Arrays.asList(mockEntity1);
+        List<QuestionDTO> dtoList = questionMapper.toDtoList(mockList);
+
+        return PagedResponseDTO.<QuestionDTO>builder()
+                .content(dtoList)
+                .pageNo(pageNo)
+                .pageSize(pageSize)
+                .totalElements(1)
+                .totalPages(1)
+                .last(true)
+                .build();
     }
 }
